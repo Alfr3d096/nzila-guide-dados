@@ -1,0 +1,2429 @@
+{
+ "versao": 4,
+ "traducoes": [
+  {
+   "chave": "origem",
+   "idioma": "pt",
+   "valor": "Origem",
+   "fonte": "original"
+  },
+  {
+   "chave": "origem",
+   "idioma": "en",
+   "valor": "From",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "origem",
+   "idioma": "fr",
+   "valor": "Départ",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "origem",
+   "idioma": "es",
+   "valor": "Origen",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "destino",
+   "idioma": "pt",
+   "valor": "Destino",
+   "fonte": "original"
+  },
+  {
+   "chave": "destino",
+   "idioma": "en",
+   "valor": "To",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "destino",
+   "idioma": "fr",
+   "valor": "Destination",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "destino",
+   "idioma": "es",
+   "valor": "Destino",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "seleccione",
+   "idioma": "pt",
+   "valor": "Seleccione...",
+   "fonte": "original"
+  },
+  {
+   "chave": "seleccione",
+   "idioma": "en",
+   "valor": "Select...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "seleccione",
+   "idioma": "fr",
+   "valor": "Sélectionner...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "seleccione",
+   "idioma": "es",
+   "valor": "Seleccionar...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "trocar",
+   "idioma": "pt",
+   "valor": "Trocar origem e destino",
+   "fonte": "original"
+  },
+  {
+   "chave": "trocar",
+   "idioma": "en",
+   "valor": "Swap origin and destination",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "trocar",
+   "idioma": "fr",
+   "valor": "Inverser départ et destination",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "trocar",
+   "idioma": "es",
+   "valor": "Intercambiar origen y destino",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_origem",
+   "idioma": "pt",
+   "valor": "Seleccione o bairro de origem.",
+   "fonte": "original"
+  },
+  {
+   "chave": "erro_origem",
+   "idioma": "en",
+   "valor": "Select the origin neighbourhood.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_origem",
+   "idioma": "fr",
+   "valor": "Sélectionnez le quartier de départ.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_origem",
+   "idioma": "es",
+   "valor": "Seleccione el barrio de origen.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_destino",
+   "idioma": "pt",
+   "valor": "Seleccione o bairro de destino.",
+   "fonte": "original"
+  },
+  {
+   "chave": "erro_destino",
+   "idioma": "en",
+   "valor": "Select the destination neighbourhood.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_destino",
+   "idioma": "fr",
+   "valor": "Sélectionnez le quartier de destination.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_destino",
+   "idioma": "es",
+   "valor": "Seleccione el barrio de destino.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_iguais",
+   "idioma": "pt",
+   "valor": "A origem e o destino não podem ser iguais.",
+   "fonte": "original"
+  },
+  {
+   "chave": "erro_iguais",
+   "idioma": "en",
+   "valor": "Origin and destination cannot be the same.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_iguais",
+   "idioma": "fr",
+   "valor": "Le départ et la destination ne peuvent pas être identiques.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "erro_iguais",
+   "idioma": "es",
+   "valor": "El origen y el destino no pueden ser iguales.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "definicoes",
+   "idioma": "pt",
+   "valor": "Configurações",
+   "fonte": "original"
+  },
+  {
+   "chave": "definicoes",
+   "idioma": "en",
+   "valor": "Settings",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "definicoes",
+   "idioma": "fr",
+   "valor": "Paramètres",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "definicoes",
+   "idioma": "es",
+   "valor": "Configuración",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "idioma",
+   "idioma": "pt",
+   "valor": "Idioma",
+   "fonte": "original"
+  },
+  {
+   "chave": "idioma",
+   "idioma": "en",
+   "valor": "Language",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "idioma",
+   "idioma": "fr",
+   "valor": "Langue",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "idioma",
+   "idioma": "es",
+   "valor": "Idioma",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "actualizacao",
+   "idioma": "pt",
+   "valor": "Verificar actualizações",
+   "fonte": "original"
+  },
+  {
+   "chave": "actualizacao",
+   "idioma": "en",
+   "valor": "Check for updates",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "actualizacao",
+   "idioma": "fr",
+   "valor": "Vérifier les mises à jour",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "actualizacao",
+   "idioma": "es",
+   "valor": "Buscar actualizaciones",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "app_tagline",
+   "idioma": "pt",
+   "valor": "O seu guia de mobilidade em Luanda",
+   "fonte": "original"
+  },
+  {
+   "chave": "app_tagline",
+   "idioma": "en",
+   "valor": "Your mobility guide in Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "app_tagline",
+   "idioma": "fr",
+   "valor": "Votre guide de mobilité à Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "app_tagline",
+   "idioma": "es",
+   "valor": "Tu guía de movilidad en Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bem_vindo",
+   "idioma": "pt",
+   "valor": "Bem-vindo",
+   "fonte": "original"
+  },
+  {
+   "chave": "bem_vindo",
+   "idioma": "en",
+   "valor": "Welcome",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bem_vindo",
+   "idioma": "fr",
+   "valor": "Bienvenue",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bem_vindo",
+   "idioma": "es",
+   "valor": "Bienvenido",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar",
+   "idioma": "pt",
+   "valor": "Pesquisar rota",
+   "fonte": "original"
+  },
+  {
+   "chave": "pesquisar",
+   "idioma": "en",
+   "valor": "Search route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar",
+   "idioma": "fr",
+   "valor": "Rechercher un itinéraire",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar",
+   "idioma": "es",
+   "valor": "Buscar ruta",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar",
+   "idioma": "pt",
+   "valor": "Explorar",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar",
+   "idioma": "en",
+   "valor": "Explore",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar",
+   "idioma": "fr",
+   "valor": "Explorer",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar",
+   "idioma": "es",
+   "valor": "Explorar",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "admin_titulo",
+   "idioma": "pt",
+   "valor": "Administração",
+   "fonte": "original"
+  },
+  {
+   "chave": "admin_titulo",
+   "idioma": "en",
+   "valor": "Administration",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "admin_titulo",
+   "idioma": "fr",
+   "valor": "Administration",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "admin_titulo",
+   "idioma": "es",
+   "valor": "Administración",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "seleccionar_idioma",
+   "idioma": "pt",
+   "valor": "Seleccionar idioma",
+   "fonte": "original"
+  },
+  {
+   "chave": "seleccionar_idioma",
+   "idioma": "en",
+   "valor": "Select language",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "seleccionar_idioma",
+   "idioma": "fr",
+   "valor": "Choisir la langue",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "seleccionar_idioma",
+   "idioma": "es",
+   "valor": "Seleccionar idioma",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_explorar",
+   "idioma": "pt",
+   "valor": "Explorar",
+   "fonte": "original"
+  },
+  {
+   "chave": "tab_explorar",
+   "idioma": "en",
+   "valor": "Explore",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_explorar",
+   "idioma": "fr",
+   "valor": "Explorer",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_explorar",
+   "idioma": "es",
+   "valor": "Explorar",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_pesquisar",
+   "idioma": "pt",
+   "valor": "Pesquisar",
+   "fonte": "original"
+  },
+  {
+   "chave": "tab_pesquisar",
+   "idioma": "en",
+   "valor": "Search",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_pesquisar",
+   "idioma": "fr",
+   "valor": "Rechercher",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_pesquisar",
+   "idioma": "es",
+   "valor": "Buscar",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_rota",
+   "idioma": "pt",
+   "valor": "Rota",
+   "fonte": "original"
+  },
+  {
+   "chave": "tab_rota",
+   "idioma": "en",
+   "valor": "Route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_rota",
+   "idioma": "fr",
+   "valor": "Itinéraire",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_rota",
+   "idioma": "es",
+   "valor": "Ruta",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_configuracoes",
+   "idioma": "pt",
+   "valor": "Configurações",
+   "fonte": "original"
+  },
+  {
+   "chave": "tab_configuracoes",
+   "idioma": "en",
+   "valor": "Settings",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_configuracoes",
+   "idioma": "fr",
+   "valor": "Paramètres",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tab_configuracoes",
+   "idioma": "es",
+   "valor": "Configuración",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_titulo",
+   "idioma": "pt",
+   "valor": "Planear Rota",
+   "fonte": "original"
+  },
+  {
+   "chave": "rota_titulo",
+   "idioma": "en",
+   "valor": "Plan Route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_titulo",
+   "idioma": "fr",
+   "valor": "Planifier l'itinéraire",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_titulo",
+   "idioma": "es",
+   "valor": "Planificar ruta",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_subtitulo",
+   "idioma": "pt",
+   "valor": "Encontra a rota com menos transferências",
+   "fonte": "original"
+  },
+  {
+   "chave": "rota_subtitulo",
+   "idioma": "en",
+   "valor": "Find the route with the fewest transfers",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_subtitulo",
+   "idioma": "fr",
+   "valor": "Trouvez l'itinéraire avec le moins de correspondances",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_subtitulo",
+   "idioma": "es",
+   "valor": "Encuentra la ruta con menos transbordos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_calcular",
+   "idioma": "pt",
+   "valor": "Calcular Rota",
+   "fonte": "original"
+  },
+  {
+   "chave": "rota_calcular",
+   "idioma": "en",
+   "valor": "Calculate Route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_calcular",
+   "idioma": "fr",
+   "valor": "Calculer l'itinéraire",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_calcular",
+   "idioma": "es",
+   "valor": "Calcular ruta",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_pesquisar_hint",
+   "idioma": "pt",
+   "valor": "Pesquisar bairro...",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_pesquisar_hint",
+   "idioma": "en",
+   "valor": "Search neighbourhood...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_pesquisar_hint",
+   "idioma": "fr",
+   "valor": "Rechercher un quartier...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_pesquisar_hint",
+   "idioma": "es",
+   "valor": "Buscar barrio...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_nenhum",
+   "idioma": "pt",
+   "valor": "Nenhum bairro encontrado.",
+   "fonte": "original"
+  },
+  {
+   "chave": "pesquisar_nenhum",
+   "idioma": "en",
+   "valor": "No neighbourhoods found.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_nenhum",
+   "idioma": "fr",
+   "valor": "Aucun quartier trouvé.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_nenhum",
+   "idioma": "es",
+   "valor": "No se encontraron barrios.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_rotas_n",
+   "idioma": "pt",
+   "valor": "{n} rota(s) disponíveis",
+   "fonte": "original"
+  },
+  {
+   "chave": "pesquisar_rotas_n",
+   "idioma": "en",
+   "valor": "{n} route(s) available",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_rotas_n",
+   "idioma": "fr",
+   "valor": "{n} itinéraire(s) disponible(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_rotas_n",
+   "idioma": "es",
+   "valor": "{n} ruta(s) disponible(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_sem_rotas",
+   "idioma": "pt",
+   "valor": "Sem rotas disponíveis",
+   "fonte": "original"
+  },
+  {
+   "chave": "pesquisar_sem_rotas",
+   "idioma": "en",
+   "valor": "No routes available",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_sem_rotas",
+   "idioma": "fr",
+   "valor": "Aucun itinéraire disponible",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "pesquisar_sem_rotas",
+   "idioma": "es",
+   "valor": "Sin rutas disponibles",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_municipios",
+   "idioma": "pt",
+   "valor": "Municípios",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar_municipios",
+   "idioma": "en",
+   "valor": "Municipalities",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_municipios",
+   "idioma": "fr",
+   "valor": "Municipalités",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_municipios",
+   "idioma": "es",
+   "valor": "Municipios",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_comunas",
+   "idioma": "pt",
+   "valor": "Comunas",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar_comunas",
+   "idioma": "en",
+   "valor": "Communes",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_comunas",
+   "idioma": "fr",
+   "valor": "Communes",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_comunas",
+   "idioma": "es",
+   "valor": "Comunas",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_sem_comuna",
+   "idioma": "pt",
+   "valor": "Bairros e localidades sem comuna",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar_sem_comuna",
+   "idioma": "en",
+   "valor": "Neighbourhoods and localities without a commune",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_sem_comuna",
+   "idioma": "fr",
+   "valor": "Quartiers et localités sans commune",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_sem_comuna",
+   "idioma": "es",
+   "valor": "Barrios y localidades sin comuna",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_comunas_n",
+   "idioma": "pt",
+   "valor": "{n} comuna(s)",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar_comunas_n",
+   "idioma": "en",
+   "valor": "{n} commune(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_comunas_n",
+   "idioma": "fr",
+   "valor": "{n} commune(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_comunas_n",
+   "idioma": "es",
+   "valor": "{n} comuna(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_bairros_n",
+   "idioma": "pt",
+   "valor": "{n} bairro(s)",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar_bairros_n",
+   "idioma": "en",
+   "valor": "{n} neighbourhood(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_bairros_n",
+   "idioma": "fr",
+   "valor": "{n} quartier(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_bairros_n",
+   "idioma": "es",
+   "valor": "{n} barrio(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_sem_bairros",
+   "idioma": "pt",
+   "valor": "Sem bairros registados.",
+   "fonte": "original"
+  },
+  {
+   "chave": "explorar_sem_bairros",
+   "idioma": "en",
+   "valor": "No neighbourhoods registered.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_sem_bairros",
+   "idioma": "fr",
+   "valor": "Aucun quartier enregistré.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "explorar_sem_bairros",
+   "idioma": "es",
+   "valor": "Sin barrios registrados.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_referencias",
+   "idioma": "pt",
+   "valor": "Referências",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_referencias",
+   "idioma": "en",
+   "valor": "Landmarks",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_referencias",
+   "idioma": "fr",
+   "valor": "Repères",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_referencias",
+   "idioma": "es",
+   "valor": "Referencias",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_sem_referencias",
+   "idioma": "pt",
+   "valor": "Sem referências registadas.",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_sem_referencias",
+   "idioma": "en",
+   "valor": "No landmarks registered.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_sem_referencias",
+   "idioma": "fr",
+   "valor": "Aucun repère enregistré.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_sem_referencias",
+   "idioma": "es",
+   "valor": "Sin referencias registradas.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_paragem",
+   "idioma": "pt",
+   "valor": "Paragem",
+   "fonte": "original"
+  },
+  {
+   "chave": "ref_tipo_paragem",
+   "idioma": "en",
+   "valor": "Stop",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_paragem",
+   "idioma": "fr",
+   "valor": "Arrêt",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_paragem",
+   "idioma": "es",
+   "valor": "Parada",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_mercado",
+   "idioma": "pt",
+   "valor": "Mercado",
+   "fonte": "original"
+  },
+  {
+   "chave": "ref_tipo_mercado",
+   "idioma": "en",
+   "valor": "Market",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_mercado",
+   "idioma": "fr",
+   "valor": "Marché",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_mercado",
+   "idioma": "es",
+   "valor": "Mercado",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_escola",
+   "idioma": "pt",
+   "valor": "Escola",
+   "fonte": "original"
+  },
+  {
+   "chave": "ref_tipo_escola",
+   "idioma": "en",
+   "valor": "School",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_escola",
+   "idioma": "fr",
+   "valor": "École",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_escola",
+   "idioma": "es",
+   "valor": "Escuela",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_hospital",
+   "idioma": "pt",
+   "valor": "Hospital",
+   "fonte": "original"
+  },
+  {
+   "chave": "ref_tipo_hospital",
+   "idioma": "en",
+   "valor": "Hospital",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_hospital",
+   "idioma": "fr",
+   "valor": "Hôpital",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_hospital",
+   "idioma": "es",
+   "valor": "Hospital",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_igreja",
+   "idioma": "pt",
+   "valor": "Igreja",
+   "fonte": "original"
+  },
+  {
+   "chave": "ref_tipo_igreja",
+   "idioma": "en",
+   "valor": "Church",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_igreja",
+   "idioma": "fr",
+   "valor": "Église",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_igreja",
+   "idioma": "es",
+   "valor": "Iglesia",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_outro",
+   "idioma": "pt",
+   "valor": "Outro",
+   "fonte": "original"
+  },
+  {
+   "chave": "ref_tipo_outro",
+   "idioma": "en",
+   "valor": "Other",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_outro",
+   "idioma": "fr",
+   "valor": "Autre",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "ref_tipo_outro",
+   "idioma": "es",
+   "valor": "Otro",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nao_encontrada",
+   "idioma": "pt",
+   "valor": "Rota não encontrada",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_nao_encontrada",
+   "idioma": "en",
+   "valor": "Route not found",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nao_encontrada",
+   "idioma": "fr",
+   "valor": "Itinéraire introuvable",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nao_encontrada",
+   "idioma": "es",
+   "valor": "Ruta no encontrada",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nao_existe",
+   "idioma": "pt",
+   "valor": "Ainda não existe uma rota registada entre estes dois bairros.",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_nao_existe",
+   "idioma": "en",
+   "valor": "There is no route registered between these two neighbourhoods yet.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nao_existe",
+   "idioma": "fr",
+   "valor": "Aucun itinéraire n'est encore enregistré entre ces deux quartiers.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nao_existe",
+   "idioma": "es",
+   "valor": "Aún no hay una ruta registrada entre estos dos barrios.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nova_pesquisa",
+   "idioma": "pt",
+   "valor": "Nova pesquisa",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_nova_pesquisa",
+   "idioma": "en",
+   "valor": "New search",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nova_pesquisa",
+   "idioma": "fr",
+   "valor": "Nouvelle recherche",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_nova_pesquisa",
+   "idioma": "es",
+   "valor": "Nueva búsqueda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_rota",
+   "idioma": "pt",
+   "valor": "Rota",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_rota",
+   "idioma": "en",
+   "valor": "Route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_rota",
+   "idioma": "fr",
+   "valor": "Itinéraire",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_rota",
+   "idioma": "es",
+   "valor": "Ruta",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_rota_n",
+   "idioma": "pt",
+   "valor": "Rota {n} · {t} táxi(s)",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_rota_n",
+   "idioma": "en",
+   "valor": "Route {n} · {t} taxi(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_rota_n",
+   "idioma": "fr",
+   "valor": "Itinéraire {n} · {t} taxi(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_rota_n",
+   "idioma": "es",
+   "valor": "Ruta {n} · {t} taxi(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_taxis",
+   "idioma": "pt",
+   "valor": "táxi(s)",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_taxis",
+   "idioma": "en",
+   "valor": "taxi(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_taxis",
+   "idioma": "fr",
+   "valor": "taxi(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_taxis",
+   "idioma": "es",
+   "valor": "taxi(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_trocas_curto",
+   "idioma": "pt",
+   "valor": "troca(s)",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_trocas_curto",
+   "idioma": "en",
+   "valor": "transfer(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_trocas_curto",
+   "idioma": "fr",
+   "valor": "correspondance(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_trocas_curto",
+   "idioma": "es",
+   "valor": "transbordo(s)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_duracao",
+   "idioma": "pt",
+   "valor": "duração",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_duracao",
+   "idioma": "en",
+   "valor": "duration",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_duracao",
+   "idioma": "fr",
+   "valor": "durée",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_duracao",
+   "idioma": "es",
+   "valor": "duración",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_custo",
+   "idioma": "pt",
+   "valor": "custo",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_custo",
+   "idioma": "en",
+   "valor": "cost",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_custo",
+   "idioma": "fr",
+   "valor": "coût",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_custo",
+   "idioma": "es",
+   "valor": "coste",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_instrucoes",
+   "idioma": "pt",
+   "valor": "Instruções",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_instrucoes",
+   "idioma": "en",
+   "valor": "Directions",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_instrucoes",
+   "idioma": "fr",
+   "valor": "Instructions",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_instrucoes",
+   "idioma": "es",
+   "valor": "Instrucciones",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_trocas",
+   "idioma": "pt",
+   "valor": "Trocas",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_trocas",
+   "idioma": "en",
+   "valor": "Transfers",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_trocas",
+   "idioma": "fr",
+   "valor": "Correspondances",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_trocas",
+   "idioma": "es",
+   "valor": "Transbordos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_custo_estimado",
+   "idioma": "pt",
+   "valor": "Custo estimado",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_custo_estimado",
+   "idioma": "en",
+   "valor": "Estimated cost",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_custo_estimado",
+   "idioma": "fr",
+   "valor": "Coût estimé",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_custo_estimado",
+   "idioma": "es",
+   "valor": "Coste estimado",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_duracao_estimada",
+   "idioma": "pt",
+   "valor": "Duração estimada",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_duracao_estimada",
+   "idioma": "en",
+   "valor": "Estimated duration",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_duracao_estimada",
+   "idioma": "fr",
+   "valor": "Durée estimée",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_duracao_estimada",
+   "idioma": "es",
+   "valor": "Duración estimada",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_minutos_n",
+   "idioma": "pt",
+   "valor": "{n} minutos",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_minutos_n",
+   "idioma": "en",
+   "valor": "{n} minutes",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_minutos_n",
+   "idioma": "fr",
+   "valor": "{n} minutes",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_minutos_n",
+   "idioma": "es",
+   "valor": "{n} minutos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_actualizacao_desc",
+   "idioma": "pt",
+   "valor": "Quando estiveres online, podes actualizar as traduções para obter as versões mais recentes em todos os idiomas.",
+   "fonte": "original"
+  },
+  {
+   "chave": "config_actualizacao_desc",
+   "idioma": "en",
+   "valor": "When you are online, you can update the translations to get the latest versions in all languages.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_actualizacao_desc",
+   "idioma": "fr",
+   "valor": "Lorsque vous êtes en ligne, vous pouvez mettre à jour les traductions pour obtenir les dernières versions dans toutes les langues.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_actualizacao_desc",
+   "idioma": "es",
+   "valor": "Cuando estés en línea, puedes actualizar las traducciones para obtener las últimas versiones en todos los idiomas.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_a_verificar",
+   "idioma": "pt",
+   "valor": "A verificar...",
+   "fonte": "original"
+  },
+  {
+   "chave": "config_a_verificar",
+   "idioma": "en",
+   "valor": "Checking...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_a_verificar",
+   "idioma": "fr",
+   "valor": "Vérification...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_a_verificar",
+   "idioma": "es",
+   "valor": "Comprobando...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_nota_linguas_nacionais",
+   "idioma": "pt",
+   "valor": "As traduções para Kimbundu, Kikongo, Umbundu e Lingala são automáticas e podem conter erros. Ajuda-nos a corrigir!",
+   "fonte": "original"
+  },
+  {
+   "chave": "config_nota_linguas_nacionais",
+   "idioma": "en",
+   "valor": "Translations for Kimbundu, Kikongo, Umbundu and Lingala are automatic and may contain errors. Help us fix them!",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_nota_linguas_nacionais",
+   "idioma": "fr",
+   "valor": "Les traductions en kimbundu, kikongo, umbundu et lingala sont automatiques et peuvent contenir des erreurs. Aidez-nous à les corriger !",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "config_nota_linguas_nacionais",
+   "idioma": "es",
+   "valor": "Las traducciones al kimbundu, kikongo, umbundu y lingala son automáticas y pueden contener errores. ¡Ayúdanos a corregirlas!",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "idioma_sem_traducoes",
+   "idioma": "pt",
+   "valor": "Ainda não há traduções para este idioma — a mostrar português. Podes ajudar em \"Rever traduções\".",
+   "fonte": "original"
+  },
+  {
+   "chave": "idioma_sem_traducoes",
+   "idioma": "en",
+   "valor": "There are no translations for this language yet — showing Portuguese. You can help in \"Review translations\".",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "idioma_sem_traducoes",
+   "idioma": "fr",
+   "valor": "Il n'y a pas encore de traductions pour cette langue — affichage en portugais. Vous pouvez aider dans « Réviser les traductions ».",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "idioma_sem_traducoes",
+   "idioma": "es",
+   "valor": "Aún no hay traducciones para este idioma — mostrando portugués. Puedes ayudar en «Revisar traducciones».",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acess_titulo",
+   "idioma": "pt",
+   "valor": "Acessibilidade",
+   "fonte": "original"
+  },
+  {
+   "chave": "acess_titulo",
+   "idioma": "en",
+   "valor": "Accessibility",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acess_titulo",
+   "idioma": "fr",
+   "valor": "Accessibilité",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acess_titulo",
+   "idioma": "es",
+   "valor": "Accesibilidad",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acess_tamanho_letra",
+   "idioma": "pt",
+   "valor": "Tamanho da letra",
+   "fonte": "original"
+  },
+  {
+   "chave": "acess_tamanho_letra",
+   "idioma": "en",
+   "valor": "Text size",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acess_tamanho_letra",
+   "idioma": "fr",
+   "valor": "Taille du texte",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acess_tamanho_letra",
+   "idioma": "es",
+   "valor": "Tamaño del texto",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_normal",
+   "idioma": "pt",
+   "valor": "Normal",
+   "fonte": "original"
+  },
+  {
+   "chave": "tam_normal",
+   "idioma": "en",
+   "valor": "Normal",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_normal",
+   "idioma": "fr",
+   "valor": "Normal",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_normal",
+   "idioma": "es",
+   "valor": "Normal",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_grande",
+   "idioma": "pt",
+   "valor": "Grande",
+   "fonte": "original"
+  },
+  {
+   "chave": "tam_grande",
+   "idioma": "en",
+   "valor": "Large",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_grande",
+   "idioma": "fr",
+   "valor": "Grand",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_grande",
+   "idioma": "es",
+   "valor": "Grande",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_extra_grande",
+   "idioma": "pt",
+   "valor": "Extra Grande",
+   "fonte": "original"
+  },
+  {
+   "chave": "tam_extra_grande",
+   "idioma": "en",
+   "valor": "Extra Large",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_extra_grande",
+   "idioma": "fr",
+   "valor": "Très grand",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "tam_extra_grande",
+   "idioma": "es",
+   "valor": "Extra grande",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_titulo",
+   "idioma": "pt",
+   "valor": "Participação",
+   "fonte": "original"
+  },
+  {
+   "chave": "part_titulo",
+   "idioma": "en",
+   "valor": "Participation",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_titulo",
+   "idioma": "fr",
+   "valor": "Participation",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_titulo",
+   "idioma": "es",
+   "valor": "Participación",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao",
+   "idioma": "pt",
+   "valor": "Enviar Sugestão",
+   "fonte": "original"
+  },
+  {
+   "chave": "part_sugestao",
+   "idioma": "en",
+   "valor": "Send a Suggestion",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao",
+   "idioma": "fr",
+   "valor": "Envoyer une suggestion",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao",
+   "idioma": "es",
+   "valor": "Enviar sugerencia",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_desc",
+   "idioma": "pt",
+   "valor": "Propõe um novo bairro ou rota de táxi",
+   "fonte": "original"
+  },
+  {
+   "chave": "part_sugestao_desc",
+   "idioma": "en",
+   "valor": "Suggest a new neighbourhood or taxi route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_desc",
+   "idioma": "fr",
+   "valor": "Proposez un nouveau quartier ou itinéraire de taxi",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_desc",
+   "idioma": "es",
+   "valor": "Propón un nuevo barrio o ruta de taxi",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_hint",
+   "idioma": "pt",
+   "valor": "Escreve a tua sugestão...",
+   "fonte": "original"
+  },
+  {
+   "chave": "part_sugestao_hint",
+   "idioma": "en",
+   "valor": "Write your suggestion...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_hint",
+   "idioma": "fr",
+   "valor": "Écrivez votre suggestion...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_hint",
+   "idioma": "es",
+   "valor": "Escribe tu sugerencia...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_guardada",
+   "idioma": "pt",
+   "valor": "Obrigado! A tua sugestão foi guardada.",
+   "fonte": "original"
+  },
+  {
+   "chave": "part_sugestao_guardada",
+   "idioma": "en",
+   "valor": "Thank you! Your suggestion was saved.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_guardada",
+   "idioma": "fr",
+   "valor": "Merci ! Votre suggestion a été enregistrée.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "part_sugestao_guardada",
+   "idioma": "es",
+   "valor": "¡Gracias! Tu sugerencia fue guardada.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acao_cancelar",
+   "idioma": "pt",
+   "valor": "Cancelar",
+   "fonte": "original"
+  },
+  {
+   "chave": "acao_cancelar",
+   "idioma": "en",
+   "valor": "Cancel",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acao_cancelar",
+   "idioma": "fr",
+   "valor": "Annuler",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acao_cancelar",
+   "idioma": "es",
+   "valor": "Cancelar",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acao_enviar",
+   "idioma": "pt",
+   "valor": "Enviar",
+   "fonte": "original"
+  },
+  {
+   "chave": "acao_enviar",
+   "idioma": "en",
+   "valor": "Send",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acao_enviar",
+   "idioma": "fr",
+   "valor": "Envoyer",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "acao_enviar",
+   "idioma": "es",
+   "valor": "Enviar",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_titulo",
+   "idioma": "pt",
+   "valor": "Base de Dados",
+   "fonte": "original"
+  },
+  {
+   "chave": "bd_titulo",
+   "idioma": "en",
+   "valor": "Database",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_titulo",
+   "idioma": "fr",
+   "valor": "Base de données",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_titulo",
+   "idioma": "es",
+   "valor": "Base de datos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_bairros",
+   "idioma": "pt",
+   "valor": "bairros na base de dados",
+   "fonte": "original"
+  },
+  {
+   "chave": "bd_bairros",
+   "idioma": "en",
+   "valor": "neighbourhoods in the database",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_bairros",
+   "idioma": "fr",
+   "valor": "quartiers dans la base de données",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_bairros",
+   "idioma": "es",
+   "valor": "barrios en la base de datos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_rotas",
+   "idioma": "pt",
+   "valor": "rotas na base de dados",
+   "fonte": "original"
+  },
+  {
+   "chave": "bd_rotas",
+   "idioma": "en",
+   "valor": "routes in the database",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_rotas",
+   "idioma": "fr",
+   "valor": "itinéraires dans la base de données",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bd_rotas",
+   "idioma": "es",
+   "valor": "rutas en la base de datos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_titulo",
+   "idioma": "pt",
+   "valor": "Sobre",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_titulo",
+   "idioma": "en",
+   "valor": "About",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_titulo",
+   "idioma": "fr",
+   "valor": "À propos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_titulo",
+   "idioma": "es",
+   "valor": "Acerca de",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_versao_n",
+   "idioma": "pt",
+   "valor": "Versão {v} · Luanda",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_versao_n",
+   "idioma": "en",
+   "valor": "Version {v} · Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_versao_n",
+   "idioma": "fr",
+   "valor": "Version {v} · Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_versao_n",
+   "idioma": "es",
+   "valor": "Versión {v} · Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_titulo",
+   "idioma": "pt",
+   "valor": "Rever traduções",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_titulo",
+   "idioma": "en",
+   "valor": "Review translations",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_titulo",
+   "idioma": "fr",
+   "valor": "Réviser les traductions",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_titulo",
+   "idioma": "es",
+   "valor": "Revisar traducciones",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_desc",
+   "idioma": "pt",
+   "valor": "Sugere correções às traduções",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_desc",
+   "idioma": "en",
+   "valor": "Suggest corrections to translations",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_desc",
+   "idioma": "fr",
+   "valor": "Suggérez des corrections aux traductions",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_desc",
+   "idioma": "es",
+   "valor": "Sugiere correcciones a las traducciones",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_so_outros",
+   "idioma": "pt",
+   "valor": "Escolhe primeiro um idioma diferente de português para rever as traduções.",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_so_outros",
+   "idioma": "en",
+   "valor": "First choose a language other than Portuguese to review translations.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_so_outros",
+   "idioma": "fr",
+   "valor": "Choisissez d'abord une langue autre que le portugais pour réviser les traductions.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_so_outros",
+   "idioma": "es",
+   "valor": "Elige primero un idioma distinto del portugués para revisar las traducciones.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_procurar",
+   "idioma": "pt",
+   "valor": "Procurar texto...",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_procurar",
+   "idioma": "en",
+   "valor": "Search text...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_procurar",
+   "idioma": "fr",
+   "valor": "Rechercher du texte...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_procurar",
+   "idioma": "es",
+   "valor": "Buscar texto...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_original",
+   "idioma": "pt",
+   "valor": "Original (português)",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_original",
+   "idioma": "en",
+   "valor": "Original (Portuguese)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_original",
+   "idioma": "fr",
+   "valor": "Original (portugais)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_original",
+   "idioma": "es",
+   "valor": "Original (portugués)",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_actual",
+   "idioma": "pt",
+   "valor": "Tradução actual",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_actual",
+   "idioma": "en",
+   "valor": "Current translation",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_actual",
+   "idioma": "fr",
+   "valor": "Traduction actuelle",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_actual",
+   "idioma": "es",
+   "valor": "Traducción actual",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_sem_traducao",
+   "idioma": "pt",
+   "valor": "Ainda sem tradução — a mostrar português",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_sem_traducao",
+   "idioma": "en",
+   "valor": "No translation yet — showing Portuguese",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_sem_traducao",
+   "idioma": "fr",
+   "valor": "Pas encore de traduction — affichage en portugais",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_sem_traducao",
+   "idioma": "es",
+   "valor": "Aún sin traducción — mostrando portugués",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_a_tua_versao",
+   "idioma": "pt",
+   "valor": "A tua tradução / correção",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_a_tua_versao",
+   "idioma": "en",
+   "valor": "Your translation / correction",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_a_tua_versao",
+   "idioma": "fr",
+   "valor": "Votre traduction / correction",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_a_tua_versao",
+   "idioma": "es",
+   "valor": "Tu traducción / corrección",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_guardada",
+   "idioma": "pt",
+   "valor": "Obrigado! A tua correção foi guardada.",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_guardada",
+   "idioma": "en",
+   "valor": "Thank you! Your correction was saved.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_guardada",
+   "idioma": "fr",
+   "valor": "Merci ! Votre correction a été enregistrée.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_guardada",
+   "idioma": "es",
+   "valor": "¡Gracias! Tu corrección fue guardada.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_marcadores",
+   "idioma": "pt",
+   "valor": "Mantém os marcadores entre chavetas, por exemplo {n}.",
+   "fonte": "original"
+  },
+  {
+   "chave": "rever_marcadores",
+   "idioma": "en",
+   "valor": "Keep the placeholders in curly braces, for example {n}.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_marcadores",
+   "idioma": "fr",
+   "valor": "Conservez les marqueurs entre accolades, par exemple {n}.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rever_marcadores",
+   "idioma": "es",
+   "valor": "Mantén los marcadores entre llaves, por ejemplo {n}.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_tab_privacidade",
+   "idioma": "pt",
+   "valor": "Privacidade",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_tab_privacidade",
+   "idioma": "en",
+   "valor": "Privacy",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_tab_privacidade",
+   "idioma": "fr",
+   "valor": "Confidentialité",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_tab_privacidade",
+   "idioma": "es",
+   "valor": "Privacidad",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_tab_termos",
+   "idioma": "pt",
+   "valor": "Termos",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_tab_termos",
+   "idioma": "en",
+   "valor": "Terms",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_tab_termos",
+   "idioma": "fr",
+   "valor": "Conditions",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_tab_termos",
+   "idioma": "es",
+   "valor": "Términos",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_texto",
+   "idioma": "pt",
+   "valor": "Nzila Guide\n\nO Nzila Guide é uma aplicação de apoio à mobilidade urbana em Luanda, desenvolvida como Trabalho de Fim de Curso (TFC) na Universidade de Luanda.\n\nAjuda o utilizador a planear trajectos de táxi entre bairros de Luanda, mostrando o número de trocas de táxi, a duração e o custo estimados de cada rota.\n\nA aplicação funciona offline e está disponível em 8 idiomas: Português, Inglês, Francês, Espanhol, Kimbundu, Kikongo, Umbundu e Lingala.\n\nVersão de desenvolvimento — conteúdo geográfico em expansão para cobrir todos os municípios de Luanda.",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_texto",
+   "idioma": "en",
+   "valor": "Nzila Guide\n\nNzila Guide is an urban mobility app for Luanda, developed as a final-year project (TFC) at the Universidade de Luanda.\n\nIt helps users plan taxi journeys between Luanda neighbourhoods, showing the number of taxi transfers and the estimated duration and cost of each route.\n\nThe app works offline and is available in 8 languages: Portuguese, English, French, Spanish, Kimbundu, Kikongo, Umbundu and Lingala.\n\nDevelopment version — geographic content is being expanded to cover all municipalities of Luanda.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_texto",
+   "idioma": "fr",
+   "valor": "Nzila Guide\n\nNzila Guide est une application de mobilité urbaine pour Luanda, développée dans le cadre d'un projet de fin d'études (TFC) à l'Universidade de Luanda.\n\nElle aide l'utilisateur à planifier des trajets en taxi entre les quartiers de Luanda, en indiquant le nombre de correspondances, ainsi que la durée et le coût estimés de chaque itinéraire.\n\nL'application fonctionne hors ligne et est disponible en 8 langues : portugais, anglais, français, espagnol, kimbundu, kikongo, umbundu et lingala.\n\nVersion de développement — le contenu géographique est en cours d'extension pour couvrir toutes les municipalités de Luanda.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_texto",
+   "idioma": "es",
+   "valor": "Nzila Guide\n\nNzila Guide es una aplicación de movilidad urbana para Luanda, desarrollada como Trabajo de Fin de Carrera (TFC) en la Universidade de Luanda.\n\nAyuda al usuario a planificar trayectos en taxi entre barrios de Luanda, mostrando el número de transbordos y la duración y el coste estimados de cada ruta.\n\nLa aplicación funciona sin conexión y está disponible en 8 idiomas: portugués, inglés, francés, español, kimbundu, kikongo, umbundu y lingala.\n\nVersión de desarrollo — el contenido geográfico se está ampliando para cubrir todos los municipios de Luanda.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_usar_minha_localizacao",
+   "idioma": "pt",
+   "valor": "Usar a minha localização",
+   "fonte": "original"
+  },
+  {
+   "chave": "loc_usar_minha_localizacao",
+   "idioma": "en",
+   "valor": "Use my location",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_usar_minha_localizacao",
+   "idioma": "fr",
+   "valor": "Utiliser ma position",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_usar_minha_localizacao",
+   "idioma": "es",
+   "valor": "Usar mi ubicación",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_a_obter",
+   "idioma": "pt",
+   "valor": "A obter localização...",
+   "fonte": "original"
+  },
+  {
+   "chave": "loc_a_obter",
+   "idioma": "en",
+   "valor": "Getting location...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_a_obter",
+   "idioma": "fr",
+   "valor": "Localisation en cours...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_a_obter",
+   "idioma": "es",
+   "valor": "Obteniendo ubicación...",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_sem_bairro_proximo",
+   "idioma": "pt",
+   "valor": "Ainda não há bairros com coordenadas registadas.",
+   "fonte": "original"
+  },
+  {
+   "chave": "loc_sem_bairro_proximo",
+   "idioma": "en",
+   "valor": "No neighbourhoods have coordinates yet.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_sem_bairro_proximo",
+   "idioma": "fr",
+   "valor": "Aucun quartier n'a encore de coordonnées.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_sem_bairro_proximo",
+   "idioma": "es",
+   "valor": "Todavía ningún barrio tiene coordenadas.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_origem_definida",
+   "idioma": "pt",
+   "valor": "Origem definida: {bairro}",
+   "fonte": "original"
+  },
+  {
+   "chave": "loc_origem_definida",
+   "idioma": "en",
+   "valor": "Origin set to: {bairro}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_origem_definida",
+   "idioma": "fr",
+   "valor": "Départ défini : {bairro}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "loc_origem_definida",
+   "idioma": "es",
+   "valor": "Origen definido: {bairro}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_nova",
+   "idioma": "pt",
+   "valor": "Nova rota",
+   "fonte": "original"
+  },
+  {
+   "chave": "rota_nova",
+   "idioma": "en",
+   "valor": "New route",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_nova",
+   "idioma": "fr",
+   "valor": "Nouvel itinéraire",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "rota_nova",
+   "idioma": "es",
+   "valor": "Nueva ruta",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_estimativa",
+   "idioma": "pt",
+   "valor": "estimativa",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_estimativa",
+   "idioma": "en",
+   "valor": "estimate",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_estimativa",
+   "idioma": "fr",
+   "valor": "estimation",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_estimativa",
+   "idioma": "es",
+   "valor": "estimación",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_privacidade_texto",
+   "idioma": "pt",
+   "valor": "Política de Privacidade\nVersão 1.1\nÚltima actualização: 24 de Outubro de 2026\n\n1. Âmbito\nEsta política descreve como o Nzila Guide trata dados no âmbito da Lei n.º 22/11 (Lei de Protecção de Dados Pessoais de Angola), fiscalizada pela Agência de Protecção de Dados (APD). Aplica-se à aplicação móvel Nzila Guide, desenvolvida como Trabalho de Fim de Curso na Universidade de Luanda.\n\n2. Que dados são tratados\nPreferências locais — idioma seleccionado e tamanho de letra. Guardadas apenas no teu dispositivo; nunca saem dele.\nSugestões de bairro/rota e propostas de correcção de tradução — texto que escreves voluntariamente. Não pedimos nome, contacto, nem qualquer identificador; o que escreveres nesse campo é tudo o que fica registado.\nNão existe conta de utilizador. Não há registo, login, nem identificador de dispositivo associado ao uso normal da aplicação.\n\n3. Onde ficam os dados\nO Nzila Guide funciona offline-first: bairros, comunas, municípios e rotas ficam numa base de dados local (SQLite) no teu telemóvel. A única ligação à internet prevista é para verificar actualizações às traduções — esse pedido não envia dados pessoais, só verifica se há uma versão mais recente disponível.\n\n4. Sugestões que submetes\nFicam guardadas para revisão pela equipa do projecto. Recomendação: não incluas dados pessoais teus ou de terceiros no texto da sugestão — a aplicação não associa a sugestão a uma identidade, por isso também não tem forma de a localizar e apagar a pedido posteriormente sem essa referência. Evita incluir informação que não queiras que fique registada.\n\n5. Geolocalização\nA aplicação tem uma funcionalidade opcional, «Usar a minha localização», que indica o bairro mais próximo de ti para o definir como ponto de partida da rota. Só é usada quando tocas nesse botão: antes de qualquer acesso, o sistema do telemóvel pede a tua autorização explícita, que podes recusar ou retirar a qualquer momento nas definições do dispositivo — o resto da aplicação funciona sem ela. A localização é lida nesse momento, comparada no teu dispositivo com as coordenadas dos bairros e depois descartada: não fica guardada, não é enviada para nenhum servidor e não é associada a ti. Só o nome do bairro obtido é usado, como ponto de partida da rota no ecrã.\n\n6. Os teus direitos\nNos termos da Lei n.º 22/11, tens direito a informação, acesso, rectificação e eliminação dos teus dados pessoais, exercível junto do responsável indicado no ponto 9, ou junto da APD. Como referido no ponto 4, isto tem uma limitação prática: sem identificador associado às sugestões, não é possível localizar retroactivamente uma submissão específica.\n\n7. Segurança\nO acesso administrativo (gestão de bairros, rotas e traduções) é protegido por password; as passwords são guardadas com hash SHA-256, nunca em texto simples.\n\n8. Menores\nA aplicação é de uso geral e não é dirigida especificamente a crianças, nem recolhe dados que permitam identificar a idade de quem a usa.\n\n9. Responsável e contacto\nAlfredo Pinto Sabino de Figueiredo — Universidade de Luanda (Trabalho de Fim de Curso)\nalfredofigueiredofd@gmail.com\n\n10. Alterações\nAlterações materiais a esta política serão reflectidas nesta secção, com a data de actualização revista no topo.",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_termos_texto",
+   "idioma": "pt",
+   "valor": "Termos de Utilização\nVersão 1.0\n\n1. Aceitação\nAo usar o Nzila Guide, aceitas estes termos. Se não concordares, não uses a aplicação.\n\n2. O que é o serviço\nFerramenta informativa de apoio à mobilidade urbana em Luanda — ajuda a planear trajectos de táxi entre bairros, com estimativas de trocas, duração e custo. Desenvolvida como Trabalho de Fim de Curso na Universidade de Luanda.\n\n3. Natureza informativa — sem garantias\nAs rotas, durações e custos são estimativas, construídas a partir de dados geográficos e de contribuições da comunidade, que podem conter imprecisões ou estar desactualizados. O Nzila Guide não é um serviço de transporte nem substitui confirmação directa com o(s) taxista(s) sobre a rota e o preço reais no momento da viagem.\n\n4. Conteúdo que submetes\nAo enviares uma sugestão de bairro/rota ou uma correcção de tradução, autorizas o projecto a usar, adaptar e publicar esse conteúdo dentro da aplicação, sem que isso implique qualquer pagamento ou garantia de que será incluído. Não submetas conteúdo ofensivo, ilegal, ou que viole direitos de terceiros — sugestões nessas condições podem ser rejeitadas sem aviso.\n\n5. Propriedade intelectual\nO código, o design e o conteúdo original da aplicação pertencem ao autor do projecto, no âmbito do Trabalho de Fim de Curso na Universidade de Luanda, salvo indicação em contrário. Os dados geográficos de base têm proveniência mista (fontes oficiais e contribuições de utilizadores), identificada internamente por nível de confiança.\n\n6. Limitação de responsabilidade\nA aplicação é fornecida \"tal como está\", sem garantias de disponibilidade contínua ou de exactidão. O uso é por conta e risco de quem usa; o projecto não se responsabiliza por atrasos, custos ou danos resultantes de informação desactualizada ou incorrecta apresentada pela aplicação.\n\n7. Disponibilidade\nO essencial da aplicação funciona sem internet. Funcionalidades que dependem de ligação (ex. actualização de traduções) podem estar indisponíveis a qualquer momento.\n\n8. Alterações a estes termos\nPodem ser actualizados; o uso continuado após uma alteração implica aceitação dos novos termos.\n\n9. Lei aplicável\nEstes termos regem-se pela lei angolana.\n\n10. Contacto\nalfredofigueiredofd@gmail.com",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_privacidade_texto",
+   "idioma": "en",
+   "valor": "Privacy Policy\nVersion 1.1\nLast updated: 24 October 2026\n\n1. Scope\nThis policy describes how Nzila Guide handles data under Law No. 22/11 (Angola's Personal Data Protection Law), supervised by the Data Protection Agency (APD). It applies to the Nzila Guide mobile app, developed as a final-year degree project at the University of Luanda.\n\n2. What data is handled\nLocal preferences — the language selected and the font size. Stored only on your device; they never leave it.\nNeighbourhood/route suggestions and translation correction proposals — text you write voluntarily. We do not ask for a name, contact details or any identifier; what you write in that field is all that gets recorded.\nThere is no user account. There is no registration, login or device identifier linked to normal use of the app.\n\n3. Where the data is kept\nNzila Guide works offline-first: neighbourhoods, communes, municipalities and routes are kept in a local database (SQLite) on your phone. The only internet connection planned is to check for translation updates — that request sends no personal data, it only checks whether a newer version is available.\n\n4. Suggestions you submit\nThey are kept for review by the project team. Recommendation: do not include personal data about yourself or others in the text of a suggestion — the app does not link a suggestion to an identity, so it also has no way to find and delete it later on request without that reference. Avoid including information you do not want to be recorded.\n\n5. Geolocation\nThe app has an optional feature, \"Use my location\", which finds the neighbourhood closest to you so it can be set as the starting point of a route. It is used only when you tap that button: before any access, your phone's system asks for your explicit permission, which you can refuse or withdraw at any time in the device settings — the rest of the app works without it. Your location is read at that moment, compared on your device with the coordinates of the neighbourhoods, and then discarded: it is not stored, not sent to any server and not linked to you. Only the name of the resulting neighbourhood is used, as the starting point of the route on screen.\n\n6. Your rights\nUnder Law No. 22/11, you have the right to information, access, rectification and erasure of your personal data, which you can exercise with the person responsible named in section 9, or with the APD. As stated in section 4, this has a practical limitation: without an identifier linked to suggestions, it is not possible to retroactively locate a specific submission.\n\n7. Security\nAdministrative access (managing neighbourhoods, routes and translations) is protected by a password; passwords are stored as SHA-256 hashes, never in plain text.\n\n8. Minors\nThe app is for general use and is not aimed specifically at children, nor does it collect data that would identify the age of its users.\n\n9. Controller and contact\nAlfredo Pinto Sabino de Figueiredo — University of Luanda (final-year degree project)\nalfredofigueiredofd@gmail.com\n\n10. Changes\nMaterial changes to this policy will be reflected in this section, with the update date revised at the top.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_termos_texto",
+   "idioma": "en",
+   "valor": "Terms of Use\nVersion 1.0\n\n1. Acceptance\nBy using Nzila Guide, you accept these terms. If you do not agree, do not use the app.\n\n2. What the service is\nAn informational tool supporting urban mobility in Luanda — it helps plan taxi journeys between neighbourhoods, with estimates of transfers, duration and cost. Developed as a final-year degree project at the University of Luanda.\n\n3. Informational nature — no guarantees\nRoutes, durations and costs are estimates, built from geographic data and community contributions, which may contain inaccuracies or be out of date. Nzila Guide is not a transport service and does not replace confirming the actual route and price directly with the taxi driver(s) at the time of the journey.\n\n4. Content you submit\nBy sending a neighbourhood/route suggestion or a translation correction, you authorise the project to use, adapt and publish that content within the app, without implying any payment or any guarantee that it will be included. Do not submit offensive or illegal content, or content that infringes the rights of third parties — suggestions of that kind may be rejected without notice.\n\n5. Intellectual property\nThe code, design and original content of the app belong to the author of the project, as part of the final-year degree project at the University of Luanda, unless stated otherwise. The base geographic data comes from mixed sources (official sources and user contributions), identified internally by confidence level.\n\n6. Limitation of liability\nThe app is provided \"as is\", with no guarantee of continuous availability or accuracy. Use is at the user's own risk; the project is not responsible for delays, costs or damage resulting from outdated or incorrect information shown by the app.\n\n7. Availability\nThe essentials of the app work without internet. Features that depend on a connection (e.g. translation updates) may be unavailable at any time.\n\n8. Changes to these terms\nThey may be updated; continued use after a change implies acceptance of the new terms.\n\n9. Governing law\nThese terms are governed by Angolan law.\n\n10. Contact\nalfredofigueiredofd@gmail.com",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_privacidade_texto",
+   "idioma": "fr",
+   "valor": "Politique de confidentialité\nVersion 1.1\nDernière mise à jour : 24 octobre 2026\n\n1. Champ d'application\nCette politique décrit la manière dont Nzila Guide traite les données dans le cadre de la loi n° 22/11 (loi angolaise sur la protection des données personnelles), contrôlée par l'Agence de protection des données (APD). Elle s'applique à l'application mobile Nzila Guide, développée comme travail de fin d'études à l'Université de Luanda.\n\n2. Quelles données sont traitées\nPréférences locales — la langue choisie et la taille du texte. Enregistrées uniquement sur ton appareil ; elles ne le quittent jamais.\nSuggestions de quartier/itinéraire et propositions de correction de traduction — texte que tu écris volontairement. Nous ne demandons ni nom, ni contact, ni aucun identifiant ; ce que tu écris dans ce champ est tout ce qui est enregistré.\nIl n'existe pas de compte utilisateur. Il n'y a ni inscription, ni connexion, ni identifiant d'appareil associé à l'utilisation normale de l'application.\n\n3. Où sont conservées les données\nNzila Guide fonctionne d'abord hors ligne : les quartiers, communes, municipalités et itinéraires sont stockés dans une base de données locale (SQLite) sur ton téléphone. La seule connexion internet prévue sert à vérifier les mises à jour des traductions — cette requête n'envoie aucune donnée personnelle, elle vérifie seulement si une version plus récente est disponible.\n\n4. Suggestions que tu envoies\nElles sont conservées pour examen par l'équipe du projet. Recommandation : n'inclus pas de données personnelles, les tiennes ou celles d'autrui, dans le texte de la suggestion — l'application n'associe pas la suggestion à une identité ; elle n'a donc aucun moyen de la retrouver et de la supprimer ultérieurement sur demande sans cette référence. Évite d'inclure des informations que tu ne veux pas voir enregistrées.\n\n5. Géolocalisation\nL'application propose une fonction facultative, « Utiliser ma position », qui indique le quartier le plus proche de toi afin de le définir comme point de départ de l'itinéraire. Elle n'est utilisée que lorsque tu appuies sur ce bouton : avant tout accès, le système de ton téléphone demande ton autorisation explicite, que tu peux refuser ou retirer à tout moment dans les réglages de l'appareil — le reste de l'application fonctionne sans elle. Ta position est lue à ce moment-là, comparée sur ton appareil aux coordonnées des quartiers, puis supprimée : elle n'est pas conservée, n'est envoyée à aucun serveur et n'est pas associée à toi. Seul le nom du quartier obtenu est utilisé, comme point de départ de l'itinéraire à l'écran.\n\n6. Tes droits\nConformément à la loi n° 22/11, tu as droit à l'information, à l'accès, à la rectification et à l'effacement de tes données personnelles, à exercer auprès du responsable indiqué au point 9, ou auprès de l'APD. Comme indiqué au point 4, cela a une limite pratique : sans identifiant associé aux suggestions, il est impossible de retrouver a posteriori un envoi précis.\n\n7. Sécurité\nL'accès administrateur (gestion des quartiers, itinéraires et traductions) est protégé par un mot de passe ; les mots de passe sont stockés sous forme de hachage SHA-256, jamais en clair.\n\n8. Mineurs\nL'application est d'usage général et ne s'adresse pas spécifiquement aux enfants ; elle ne collecte pas non plus de données permettant d'identifier l'âge de ses utilisateurs.\n\n9. Responsable et contact\nAlfredo Pinto Sabino de Figueiredo — Université de Luanda (travail de fin d'études)\nalfredofigueiredofd@gmail.com\n\n10. Modifications\nLes modifications importantes de cette politique seront reflétées dans cette section, avec la date de mise à jour révisée en haut.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_termos_texto",
+   "idioma": "fr",
+   "valor": "Conditions d'utilisation\nVersion 1.0\n\n1. Acceptation\nEn utilisant Nzila Guide, tu acceptes ces conditions. Si tu n'es pas d'accord, n'utilise pas l'application.\n\n2. Qu'est-ce que le service\nOutil d'information d'aide à la mobilité urbaine à Luanda — il aide à planifier des trajets en taxi entre quartiers, avec des estimations de correspondances, de durée et de coût. Développé comme travail de fin d'études à l'Université de Luanda.\n\n3. Nature informative — sans garanties\nLes itinéraires, durées et coûts sont des estimations, construites à partir de données géographiques et de contributions de la communauté, qui peuvent contenir des imprécisions ou être périmées. Nzila Guide n'est pas un service de transport et ne remplace pas la confirmation directe, auprès du ou des chauffeurs de taxi, de l'itinéraire et du prix réels au moment du trajet.\n\n4. Contenu que tu envoies\nEn envoyant une suggestion de quartier/itinéraire ou une correction de traduction, tu autorises le projet à utiliser, adapter et publier ce contenu dans l'application, sans que cela implique un paiement ni la garantie qu'il sera inclus. N'envoie pas de contenu offensant, illégal ou portant atteinte aux droits de tiers — les suggestions de ce type peuvent être rejetées sans préavis.\n\n5. Propriété intellectuelle\nLe code, le design et le contenu original de l'application appartiennent à l'auteur du projet, dans le cadre du travail de fin d'études à l'Université de Luanda, sauf indication contraire. Les données géographiques de base ont une provenance mixte (sources officielles et contributions d'utilisateurs), identifiée en interne par un niveau de confiance.\n\n6. Limitation de responsabilité\nL'application est fournie « en l'état », sans garantie de disponibilité continue ni d'exactitude. L'utilisation se fait aux risques de l'utilisateur ; le projet n'est pas responsable des retards, coûts ou dommages résultant d'informations périmées ou incorrectes affichées par l'application.\n\n7. Disponibilité\nL'essentiel de l'application fonctionne sans internet. Les fonctions qui dépendent d'une connexion (p. ex. la mise à jour des traductions) peuvent être indisponibles à tout moment.\n\n8. Modifications de ces conditions\nElles peuvent être mises à jour ; l'utilisation continue après une modification vaut acceptation des nouvelles conditions.\n\n9. Loi applicable\nCes conditions sont régies par le droit angolais.\n\n10. Contact\nalfredofigueiredofd@gmail.com",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_privacidade_texto",
+   "idioma": "es",
+   "valor": "Política de Privacidad\nVersión 1.1\nÚltima actualización: 24 de octubre de 2026\n\n1. Ámbito\nEsta política describe cómo Nzila Guide trata los datos en el marco de la Ley n.º 22/11 (Ley de Protección de Datos Personales de Angola), supervisada por la Agencia de Protección de Datos (APD). Se aplica a la aplicación móvil Nzila Guide, desarrollada como Trabajo de Fin de Carrera en la Universidad de Luanda.\n\n2. Qué datos se tratan\nPreferencias locales — el idioma seleccionado y el tamaño de letra. Se guardan solo en tu dispositivo; nunca salen de él.\nSugerencias de barrio/ruta y propuestas de corrección de traducción — texto que escribes voluntariamente. No pedimos nombre, contacto ni ningún identificador; lo que escribas en ese campo es todo lo que queda registrado.\nNo existe cuenta de usuario. No hay registro, inicio de sesión ni identificador de dispositivo asociado al uso normal de la aplicación.\n\n3. Dónde se guardan los datos\nNzila Guide funciona primero sin conexión: los barrios, comunas, municipios y rutas se guardan en una base de datos local (SQLite) en tu teléfono. La única conexión a internet prevista es para comprobar actualizaciones de las traducciones — esa petición no envía datos personales, solo comprueba si hay una versión más reciente disponible.\n\n4. Sugerencias que envías\nSe guardan para su revisión por el equipo del proyecto. Recomendación: no incluyas datos personales tuyos ni de terceros en el texto de la sugerencia — la aplicación no asocia la sugerencia a una identidad, por lo que tampoco puede localizarla y borrarla posteriormente a petición sin esa referencia. Evita incluir información que no quieras que quede registrada.\n\n5. Geolocalización\nLa aplicación tiene una función opcional, «Usar mi ubicación», que indica el barrio más cercano a ti para fijarlo como punto de partida de la ruta. Solo se usa cuando pulsas ese botón: antes de cualquier acceso, el sistema de tu teléfono pide tu autorización explícita, que puedes rechazar o retirar en cualquier momento en los ajustes del dispositivo — el resto de la aplicación funciona sin ella. Tu ubicación se lee en ese momento, se compara en tu dispositivo con las coordenadas de los barrios y se descarta: no se guarda, no se envía a ningún servidor y no se asocia a ti. Solo se usa el nombre del barrio resultante, como punto de partida de la ruta en pantalla.\n\n6. Tus derechos\nConforme a la Ley n.º 22/11, tienes derecho a información, acceso, rectificación y supresión de tus datos personales, que puedes ejercer ante el responsable indicado en el punto 9, o ante la APD. Como se indica en el punto 4, esto tiene una limitación práctica: sin un identificador asociado a las sugerencias, no es posible localizar retroactivamente un envío concreto.\n\n7. Seguridad\nEl acceso administrativo (gestión de barrios, rutas y traducciones) está protegido por contraseña; las contraseñas se guardan con hash SHA-256, nunca en texto plano.\n\n8. Menores\nLa aplicación es de uso general y no está dirigida específicamente a niños, ni recoge datos que permitan identificar la edad de quien la usa.\n\n9. Responsable y contacto\nAlfredo Pinto Sabino de Figueiredo — Universidad de Luanda (Trabajo de Fin de Carrera)\nalfredofigueiredofd@gmail.com\n\n10. Cambios\nLos cambios importantes de esta política se reflejarán en esta sección, con la fecha de actualización revisada en la parte superior.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_termos_texto",
+   "idioma": "es",
+   "valor": "Términos de Uso\nVersión 1.0\n\n1. Aceptación\nAl usar Nzila Guide, aceptas estos términos. Si no estás de acuerdo, no uses la aplicación.\n\n2. Qué es el servicio\nHerramienta informativa de apoyo a la movilidad urbana en Luanda — ayuda a planificar trayectos en taxi entre barrios, con estimaciones de transbordos, duración y coste. Desarrollada como Trabajo de Fin de Carrera en la Universidad de Luanda.\n\n3. Naturaleza informativa — sin garantías\nLas rutas, duraciones y costes son estimaciones, construidas a partir de datos geográficos y de contribuciones de la comunidad, que pueden contener imprecisiones o estar desactualizadas. Nzila Guide no es un servicio de transporte ni sustituye la confirmación directa con el o los taxistas sobre la ruta y el precio reales en el momento del viaje.\n\n4. Contenido que envías\nAl enviar una sugerencia de barrio/ruta o una corrección de traducción, autorizas al proyecto a usar, adaptar y publicar ese contenido dentro de la aplicación, sin que ello implique ningún pago ni garantía de que se incluirá. No envíes contenido ofensivo, ilegal o que infrinja derechos de terceros — las sugerencias en esas condiciones pueden ser rechazadas sin aviso.\n\n5. Propiedad intelectual\nEl código, el diseño y el contenido original de la aplicación pertenecen al autor del proyecto, en el marco del Trabajo de Fin de Carrera en la Universidad de Luanda, salvo indicación en contrario. Los datos geográficos de base tienen procedencia mixta (fuentes oficiales y contribuciones de usuarios), identificada internamente por nivel de confianza.\n\n6. Limitación de responsabilidad\nLa aplicación se ofrece «tal cual», sin garantías de disponibilidad continua ni de exactitud. El uso es por cuenta y riesgo de quien la usa; el proyecto no se responsabiliza de retrasos, costes o daños derivados de información desactualizada o incorrecta mostrada por la aplicación.\n\n7. Disponibilidad\nLo esencial de la aplicación funciona sin internet. Las funciones que dependen de conexión (p. ej., la actualización de traducciones) pueden no estar disponibles en cualquier momento.\n\n8. Cambios en estos términos\nPueden actualizarse; el uso continuado tras un cambio implica la aceptación de los nuevos términos.\n\n9. Ley aplicable\nEstos términos se rigen por la ley angoleña.\n\n10. Contacto\nalfredofigueiredofd@gmail.com",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_passa_por",
+   "idioma": "pt",
+   "valor": "Passa por",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_passa_por",
+   "idioma": "en",
+   "valor": "Passes through",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_passa_por",
+   "idioma": "fr",
+   "valor": "Passe par",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_passa_por",
+   "idioma": "es",
+   "valor": "Pasa por",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_tarifa_inteira",
+   "idioma": "pt",
+   "valor": "Tarifa inteira, mesmo que desças antes do fim da linha.",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_tarifa_inteira",
+   "idioma": "en",
+   "valor": "Full fare, even if you get off before the end of the line.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_tarifa_inteira",
+   "idioma": "fr",
+   "valor": "Tarif plein, même si tu descends avant le terminus.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_tarifa_inteira",
+   "idioma": "es",
+   "valor": "Tarifa completa, aunque te bajes antes del final de la línea.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_por_paragens",
+   "idioma": "pt",
+   "valor": "Rota calculada pelas paragens da linha.",
+   "fonte": "original"
+  },
+  {
+   "chave": "resultado_por_paragens",
+   "idioma": "en",
+   "valor": "Route worked out from the line's stops.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_por_paragens",
+   "idioma": "fr",
+   "valor": "Itinéraire calculé à partir des arrêts de la ligne.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "resultado_por_paragens",
+   "idioma": "es",
+   "valor": "Ruta calculada a partir de las paradas de la línea.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_linhas_passam",
+   "idioma": "pt",
+   "valor": "Linhas que passam aqui",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_linhas_passam",
+   "idioma": "en",
+   "valor": "Lines that stop here",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_linhas_passam",
+   "idioma": "fr",
+   "valor": "Lignes qui passent ici",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_linhas_passam",
+   "idioma": "es",
+   "valor": "Líneas que pasan por aquí",
+   "fonte": "assistente"
+  }
+ ]
+}
