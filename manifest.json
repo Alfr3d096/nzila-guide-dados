@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "versao": "20261122-0148",
+  "publicado_em": "2026-11-22T01:48:20Z",
+  "app": {
+    "min_build_compativel": 0,
+    "min_build_obrigatoria": 0,
+    "notas": []
+  },
+  "ficheiros": [
+    {
+      "id": "dados",
+      "tipo": "dados",
+      "caminho": "dados.json",
+      "sha256": "4b26bb1c4039ea5c9581393167fa1a3d7660c7a959749b5e209b28d519ea0ae3",
+      "tamanho": 43860,
+      "obrigatorio": true,
+      "versao": "20261121-1347"
+    },
+    {
+      "id": "traducoes",
+      "tipo": "traducoes",
+      "caminho": "traducoes.json",
+      "sha256": "8858d6d844d288d605d54092e36c2e1eec2ce82336ba72341950218fa4ebea3a",
+      "tamanho": 77577,
+      "obrigatorio": false,
+      "versao": "4"
+    }
+  ]
+}
