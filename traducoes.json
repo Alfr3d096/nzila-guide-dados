@@ -1,5 +1,5 @@
 {
- "versao": 7,
+ "versao": 8,
  "traducoes": [
   {
    "chave": "origem",
@@ -2808,6 +2808,174 @@
    "idioma": "es",
    "valor": "Buscar nueva versión de la app",
    "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_criado_por",
+   "idioma": "en",
+   "valor": "Created by",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_slogan",
+   "idioma": "en",
+   "valor": "Your guide to every destination.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_rotas",
+   "idioma": "en",
+   "valor": "Taxi routes",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_offline",
+   "idioma": "en",
+   "valor": "Works offline",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_luanda",
+   "idioma": "en",
+   "valor": "Luanda data",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_versao",
+   "idioma": "en",
+   "valor": "Version",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_abrir_falhou",
+   "idioma": "en",
+   "valor": "Couldn't open the link.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_criado_por",
+   "idioma": "es",
+   "valor": "Creado por",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_slogan",
+   "idioma": "es",
+   "valor": "Tu guía en cada destino.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_rotas",
+   "idioma": "es",
+   "valor": "Rutas de taxi",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_offline",
+   "idioma": "es",
+   "valor": "Funciona sin conexión",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_luanda",
+   "idioma": "es",
+   "valor": "Datos de Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_versao",
+   "idioma": "es",
+   "valor": "Versión",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_abrir_falhou",
+   "idioma": "es",
+   "valor": "No se pudo abrir el enlace.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_criado_por",
+   "idioma": "fr",
+   "valor": "Créé par",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_slogan",
+   "idioma": "fr",
+   "valor": "Votre guide pour chaque destination.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_rotas",
+   "idioma": "fr",
+   "valor": "Itinéraires de taxi",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_offline",
+   "idioma": "fr",
+   "valor": "Fonctionne hors ligne",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_cartao_luanda",
+   "idioma": "fr",
+   "valor": "Données de Luanda",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_versao",
+   "idioma": "fr",
+   "valor": "Version",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_abrir_falhou",
+   "idioma": "fr",
+   "valor": "Impossible d'ouvrir le lien.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "sobre_criado_por",
+   "idioma": "pt",
+   "valor": "Criado por",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_slogan",
+   "idioma": "pt",
+   "valor": "O seu guia em cada destino.",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_cartao_rotas",
+   "idioma": "pt",
+   "valor": "Rotas de táxi",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_cartao_offline",
+   "idioma": "pt",
+   "valor": "Funciona offline",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_cartao_luanda",
+   "idioma": "pt",
+   "valor": "Dados de Luanda",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_versao",
+   "idioma": "pt",
+   "valor": "Versão",
+   "fonte": "original"
+  },
+  {
+   "chave": "sobre_abrir_falhou",
+   "idioma": "pt",
+   "valor": "Não foi possível abrir a ligação.",
+   "fonte": "original"
   }
  ]
 }
