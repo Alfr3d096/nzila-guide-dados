@@ -1,5 +1,5 @@
 {
- "versao": 4,
+ "versao": 7,
  "traducoes": [
   {
    "chave": "origem",
@@ -2284,7 +2284,7 @@
   {
    "chave": "sobre_privacidade_texto",
    "idioma": "pt",
-   "valor": "Política de Privacidade\nVersão 1.1\nÚltima actualização: 24 de Outubro de 2026\n\n1. Âmbito\nEsta política descreve como o Nzila Guide trata dados no âmbito da Lei n.º 22/11 (Lei de Protecção de Dados Pessoais de Angola), fiscalizada pela Agência de Protecção de Dados (APD). Aplica-se à aplicação móvel Nzila Guide, desenvolvida como Trabalho de Fim de Curso na Universidade de Luanda.\n\n2. Que dados são tratados\nPreferências locais — idioma seleccionado e tamanho de letra. Guardadas apenas no teu dispositivo; nunca saem dele.\nSugestões de bairro/rota e propostas de correcção de tradução — texto que escreves voluntariamente. Não pedimos nome, contacto, nem qualquer identificador; o que escreveres nesse campo é tudo o que fica registado.\nNão existe conta de utilizador. Não há registo, login, nem identificador de dispositivo associado ao uso normal da aplicação.\n\n3. Onde ficam os dados\nO Nzila Guide funciona offline-first: bairros, comunas, municípios e rotas ficam numa base de dados local (SQLite) no teu telemóvel. A única ligação à internet prevista é para verificar actualizações às traduções — esse pedido não envia dados pessoais, só verifica se há uma versão mais recente disponível.\n\n4. Sugestões que submetes\nFicam guardadas para revisão pela equipa do projecto. Recomendação: não incluas dados pessoais teus ou de terceiros no texto da sugestão — a aplicação não associa a sugestão a uma identidade, por isso também não tem forma de a localizar e apagar a pedido posteriormente sem essa referência. Evita incluir informação que não queiras que fique registada.\n\n5. Geolocalização\nA aplicação tem uma funcionalidade opcional, «Usar a minha localização», que indica o bairro mais próximo de ti para o definir como ponto de partida da rota. Só é usada quando tocas nesse botão: antes de qualquer acesso, o sistema do telemóvel pede a tua autorização explícita, que podes recusar ou retirar a qualquer momento nas definições do dispositivo — o resto da aplicação funciona sem ela. A localização é lida nesse momento, comparada no teu dispositivo com as coordenadas dos bairros e depois descartada: não fica guardada, não é enviada para nenhum servidor e não é associada a ti. Só o nome do bairro obtido é usado, como ponto de partida da rota no ecrã.\n\n6. Os teus direitos\nNos termos da Lei n.º 22/11, tens direito a informação, acesso, rectificação e eliminação dos teus dados pessoais, exercível junto do responsável indicado no ponto 9, ou junto da APD. Como referido no ponto 4, isto tem uma limitação prática: sem identificador associado às sugestões, não é possível localizar retroactivamente uma submissão específica.\n\n7. Segurança\nO acesso administrativo (gestão de bairros, rotas e traduções) é protegido por password; as passwords são guardadas com hash SHA-256, nunca em texto simples.\n\n8. Menores\nA aplicação é de uso geral e não é dirigida especificamente a crianças, nem recolhe dados que permitam identificar a idade de quem a usa.\n\n9. Responsável e contacto\nAlfredo Pinto Sabino de Figueiredo — Universidade de Luanda (Trabalho de Fim de Curso)\nalfredofigueiredofd@gmail.com\n\n10. Alterações\nAlterações materiais a esta política serão reflectidas nesta secção, com a data de actualização revista no topo.",
+   "valor": "Política de Privacidade\nVersão 1.2\nÚltima actualização: 4 de Novembro de 2026\n\n1. Âmbito\nEsta política descreve como o Nzila Guide trata dados no âmbito da Lei n.º 22/11 (Lei de Protecção de Dados Pessoais de Angola), fiscalizada pela Agência de Protecção de Dados (APD). Aplica-se à aplicação móvel Nzila Guide, desenvolvida como Trabalho de Fim de Curso na Universidade de Luanda.\n\n2. Que dados são tratados\nPreferências locais — idioma seleccionado e tamanho de letra. Guardadas apenas no teu dispositivo; nunca saem dele.\nSugestões de bairro/rota e propostas de correcção de tradução — texto que escreves voluntariamente. Não pedimos nome, contacto, nem qualquer identificador; o que escreveres nesse campo é tudo o que fica registado.\nNão existe conta de utilizador. Não há registo, login, nem identificador de dispositivo associado ao uso normal da aplicação.\n\n3. Onde ficam os dados\nO Nzila Guide funciona primeiro sem ligação: bairros, comunas, municípios e rotas ficam numa base de dados local (SQLite) no teu telemóvel. A única ligação à internet é para descarregar actualizações — das traduções e dos dados das rotas — de um servidor de ficheiros públicos. Esse pedido não envia nenhum dado pessoal: apenas descarrega os ficheiros mais recentes. Como em qualquer ligação à internet, o servidor que aloja esses ficheiros pode registar o teu endereço IP.\n\n4. Sugestões que submetes\nFicam guardadas para revisão pela equipa do projecto. Recomendação: não incluas dados pessoais teus ou de terceiros no texto da sugestão — a aplicação não associa a sugestão a uma identidade, por isso também não tem forma de a localizar e apagar a pedido posteriormente sem essa referência. Evita incluir informação que não queiras que fique registada.\n\n5. Geolocalização\nA aplicação tem uma funcionalidade opcional, «Usar a minha localização», que indica o bairro mais próximo de ti para o definir como ponto de partida da rota. Só é usada quando tocas nesse botão: antes de qualquer acesso, o sistema do telemóvel pede a tua autorização explícita, que podes recusar ou retirar a qualquer momento nas definições do dispositivo — o resto da aplicação funciona sem ela. A localização é lida nesse momento, comparada no teu dispositivo com as coordenadas dos bairros e depois descartada: não fica guardada, não é enviada para nenhum servidor e não é associada a ti. Só o nome do bairro obtido é usado, como ponto de partida da rota no ecrã.\n\n6. Os teus direitos\nNos termos da Lei n.º 22/11, tens direito a informação, acesso, rectificação e eliminação dos teus dados pessoais, exercível junto do responsável indicado no ponto 9, ou junto da APD. Como referido no ponto 4, isto tem uma limitação prática: sem identificador associado às sugestões, não é possível localizar retroactivamente uma submissão específica.\n\n7. Segurança\nO acesso administrativo (gestão de bairros, rotas e traduções) é protegido por password; as passwords são guardadas com hash SHA-256, nunca em texto simples.\n\n8. Menores\nA aplicação é de uso geral e não é dirigida especificamente a crianças, nem recolhe dados que permitam identificar a idade de quem a usa.\n\n9. Responsável e contacto\nAlfredo Pinto Sabino de Figueiredo — Universidade de Luanda (Trabalho de Fim de Curso)\nalfredofigueiredofd@gmail.com\n\n10. Alterações\nAlterações materiais a esta política serão reflectidas nesta secção, com a data de actualização revista no topo.",
    "fonte": "original"
   },
   {
@@ -2296,7 +2296,7 @@
   {
    "chave": "sobre_privacidade_texto",
    "idioma": "en",
-   "valor": "Privacy Policy\nVersion 1.1\nLast updated: 24 October 2026\n\n1. Scope\nThis policy describes how Nzila Guide handles data under Law No. 22/11 (Angola's Personal Data Protection Law), supervised by the Data Protection Agency (APD). It applies to the Nzila Guide mobile app, developed as a final-year degree project at the University of Luanda.\n\n2. What data is handled\nLocal preferences — the language selected and the font size. Stored only on your device; they never leave it.\nNeighbourhood/route suggestions and translation correction proposals — text you write voluntarily. We do not ask for a name, contact details or any identifier; what you write in that field is all that gets recorded.\nThere is no user account. There is no registration, login or device identifier linked to normal use of the app.\n\n3. Where the data is kept\nNzila Guide works offline-first: neighbourhoods, communes, municipalities and routes are kept in a local database (SQLite) on your phone. The only internet connection planned is to check for translation updates — that request sends no personal data, it only checks whether a newer version is available.\n\n4. Suggestions you submit\nThey are kept for review by the project team. Recommendation: do not include personal data about yourself or others in the text of a suggestion — the app does not link a suggestion to an identity, so it also has no way to find and delete it later on request without that reference. Avoid including information you do not want to be recorded.\n\n5. Geolocation\nThe app has an optional feature, \"Use my location\", which finds the neighbourhood closest to you so it can be set as the starting point of a route. It is used only when you tap that button: before any access, your phone's system asks for your explicit permission, which you can refuse or withdraw at any time in the device settings — the rest of the app works without it. Your location is read at that moment, compared on your device with the coordinates of the neighbourhoods, and then discarded: it is not stored, not sent to any server and not linked to you. Only the name of the resulting neighbourhood is used, as the starting point of the route on screen.\n\n6. Your rights\nUnder Law No. 22/11, you have the right to information, access, rectification and erasure of your personal data, which you can exercise with the person responsible named in section 9, or with the APD. As stated in section 4, this has a practical limitation: without an identifier linked to suggestions, it is not possible to retroactively locate a specific submission.\n\n7. Security\nAdministrative access (managing neighbourhoods, routes and translations) is protected by a password; passwords are stored as SHA-256 hashes, never in plain text.\n\n8. Minors\nThe app is for general use and is not aimed specifically at children, nor does it collect data that would identify the age of its users.\n\n9. Controller and contact\nAlfredo Pinto Sabino de Figueiredo — University of Luanda (final-year degree project)\nalfredofigueiredofd@gmail.com\n\n10. Changes\nMaterial changes to this policy will be reflected in this section, with the update date revised at the top.",
+   "valor": "Privacy Policy\nVersion 1.2\nLast updated: 4 November 2026\n\n1. Scope\nThis policy describes how Nzila Guide handles data under Law No. 22/11 (Angola's Personal Data Protection Law), supervised by the Data Protection Agency (APD). It applies to the Nzila Guide mobile app, developed as a final-year degree project at the University of Luanda.\n\n2. What data is handled\nLocal preferences — the language selected and the font size. Stored only on your device; they never leave it.\nNeighbourhood/route suggestions and translation correction proposals — text you write voluntarily. We do not ask for a name, contact details or any identifier; what you write in that field is all that gets recorded.\nThere is no user account. There is no registration, login or device identifier linked to normal use of the app.\n\n3. Where the data is kept\nNzila Guide works offline-first: neighbourhoods, communes, municipalities and routes are kept in a local database (SQLite) on your phone. The only internet connection is to download updates — to the translations and to the route data — from a server of public files. That request sends no personal data: it only downloads the latest files. As with any internet connection, the server hosting those files may record your IP address.\n\n4. Suggestions you submit\nThey are kept for review by the project team. Recommendation: do not include personal data about yourself or others in the text of a suggestion — the app does not link a suggestion to an identity, so it also has no way to find and delete it later on request without that reference. Avoid including information you do not want to be recorded.\n\n5. Geolocation\nThe app has an optional feature, \"Use my location\", which finds the neighbourhood closest to you so it can be set as the starting point of a route. It is used only when you tap that button: before any access, your phone's system asks for your explicit permission, which you can refuse or withdraw at any time in the device settings — the rest of the app works without it. Your location is read at that moment, compared on your device with the coordinates of the neighbourhoods, and then discarded: it is not stored, not sent to any server and not linked to you. Only the name of the resulting neighbourhood is used, as the starting point of the route on screen.\n\n6. Your rights\nUnder Law No. 22/11, you have the right to information, access, rectification and erasure of your personal data, which you can exercise with the person responsible named in section 9, or with the APD. As stated in section 4, this has a practical limitation: without an identifier linked to suggestions, it is not possible to retroactively locate a specific submission.\n\n7. Security\nAdministrative access (managing neighbourhoods, routes and translations) is protected by a password; passwords are stored as SHA-256 hashes, never in plain text.\n\n8. Minors\nThe app is for general use and is not aimed specifically at children, nor does it collect data that would identify the age of its users.\n\n9. Controller and contact\nAlfredo Pinto Sabino de Figueiredo — University of Luanda (final-year degree project)\nalfredofigueiredofd@gmail.com\n\n10. Changes\nMaterial changes to this policy will be reflected in this section, with the update date revised at the top.",
    "fonte": "assistente"
   },
   {
@@ -2308,7 +2308,7 @@
   {
    "chave": "sobre_privacidade_texto",
    "idioma": "fr",
-   "valor": "Politique de confidentialité\nVersion 1.1\nDernière mise à jour : 24 octobre 2026\n\n1. Champ d'application\nCette politique décrit la manière dont Nzila Guide traite les données dans le cadre de la loi n° 22/11 (loi angolaise sur la protection des données personnelles), contrôlée par l'Agence de protection des données (APD). Elle s'applique à l'application mobile Nzila Guide, développée comme travail de fin d'études à l'Université de Luanda.\n\n2. Quelles données sont traitées\nPréférences locales — la langue choisie et la taille du texte. Enregistrées uniquement sur ton appareil ; elles ne le quittent jamais.\nSuggestions de quartier/itinéraire et propositions de correction de traduction — texte que tu écris volontairement. Nous ne demandons ni nom, ni contact, ni aucun identifiant ; ce que tu écris dans ce champ est tout ce qui est enregistré.\nIl n'existe pas de compte utilisateur. Il n'y a ni inscription, ni connexion, ni identifiant d'appareil associé à l'utilisation normale de l'application.\n\n3. Où sont conservées les données\nNzila Guide fonctionne d'abord hors ligne : les quartiers, communes, municipalités et itinéraires sont stockés dans une base de données locale (SQLite) sur ton téléphone. La seule connexion internet prévue sert à vérifier les mises à jour des traductions — cette requête n'envoie aucune donnée personnelle, elle vérifie seulement si une version plus récente est disponible.\n\n4. Suggestions que tu envoies\nElles sont conservées pour examen par l'équipe du projet. Recommandation : n'inclus pas de données personnelles, les tiennes ou celles d'autrui, dans le texte de la suggestion — l'application n'associe pas la suggestion à une identité ; elle n'a donc aucun moyen de la retrouver et de la supprimer ultérieurement sur demande sans cette référence. Évite d'inclure des informations que tu ne veux pas voir enregistrées.\n\n5. Géolocalisation\nL'application propose une fonction facultative, « Utiliser ma position », qui indique le quartier le plus proche de toi afin de le définir comme point de départ de l'itinéraire. Elle n'est utilisée que lorsque tu appuies sur ce bouton : avant tout accès, le système de ton téléphone demande ton autorisation explicite, que tu peux refuser ou retirer à tout moment dans les réglages de l'appareil — le reste de l'application fonctionne sans elle. Ta position est lue à ce moment-là, comparée sur ton appareil aux coordonnées des quartiers, puis supprimée : elle n'est pas conservée, n'est envoyée à aucun serveur et n'est pas associée à toi. Seul le nom du quartier obtenu est utilisé, comme point de départ de l'itinéraire à l'écran.\n\n6. Tes droits\nConformément à la loi n° 22/11, tu as droit à l'information, à l'accès, à la rectification et à l'effacement de tes données personnelles, à exercer auprès du responsable indiqué au point 9, ou auprès de l'APD. Comme indiqué au point 4, cela a une limite pratique : sans identifiant associé aux suggestions, il est impossible de retrouver a posteriori un envoi précis.\n\n7. Sécurité\nL'accès administrateur (gestion des quartiers, itinéraires et traductions) est protégé par un mot de passe ; les mots de passe sont stockés sous forme de hachage SHA-256, jamais en clair.\n\n8. Mineurs\nL'application est d'usage général et ne s'adresse pas spécifiquement aux enfants ; elle ne collecte pas non plus de données permettant d'identifier l'âge de ses utilisateurs.\n\n9. Responsable et contact\nAlfredo Pinto Sabino de Figueiredo — Université de Luanda (travail de fin d'études)\nalfredofigueiredofd@gmail.com\n\n10. Modifications\nLes modifications importantes de cette politique seront reflétées dans cette section, avec la date de mise à jour révisée en haut.",
+   "valor": "Politique de confidentialité\nVersion 1.2\nDernière mise à jour : 4 novembre 2026\n\n1. Champ d'application\nCette politique décrit la manière dont Nzila Guide traite les données dans le cadre de la loi n° 22/11 (loi angolaise sur la protection des données personnelles), contrôlée par l'Agence de protection des données (APD). Elle s'applique à l'application mobile Nzila Guide, développée comme travail de fin d'études à l'Université de Luanda.\n\n2. Quelles données sont traitées\nPréférences locales — la langue choisie et la taille du texte. Enregistrées uniquement sur ton appareil ; elles ne le quittent jamais.\nSuggestions de quartier/itinéraire et propositions de correction de traduction — texte que tu écris volontairement. Nous ne demandons ni nom, ni contact, ni aucun identifiant ; ce que tu écris dans ce champ est tout ce qui est enregistré.\nIl n'existe pas de compte utilisateur. Il n'y a ni inscription, ni connexion, ni identifiant d'appareil associé à l'utilisation normale de l'application.\n\n3. Où sont conservées les données\nNzila Guide fonctionne d'abord hors ligne : les quartiers, communes, municipalités et itinéraires sont stockés dans une base de données locale (SQLite) sur ton téléphone. La seule connexion internet sert à télécharger les mises à jour — des traductions et des données d'itinéraires — depuis un serveur de fichiers publics. Cette requête n'envoie aucune donnée personnelle : elle télécharge seulement les fichiers les plus récents. Comme pour toute connexion internet, le serveur qui héberge ces fichiers peut enregistrer ton adresse IP.\n\n4. Suggestions que tu envoies\nElles sont conservées pour examen par l'équipe du projet. Recommandation : n'inclus pas de données personnelles, les tiennes ou celles d'autrui, dans le texte de la suggestion — l'application n'associe pas la suggestion à une identité ; elle n'a donc aucun moyen de la retrouver et de la supprimer ultérieurement sur demande sans cette référence. Évite d'inclure des informations que tu ne veux pas voir enregistrées.\n\n5. Géolocalisation\nL'application propose une fonction facultative, « Utiliser ma position », qui indique le quartier le plus proche de toi afin de le définir comme point de départ de l'itinéraire. Elle n'est utilisée que lorsque tu appuies sur ce bouton : avant tout accès, le système de ton téléphone demande ton autorisation explicite, que tu peux refuser ou retirer à tout moment dans les réglages de l'appareil — le reste de l'application fonctionne sans elle. Ta position est lue à ce moment-là, comparée sur ton appareil aux coordonnées des quartiers, puis supprimée : elle n'est pas conservée, n'est envoyée à aucun serveur et n'est pas associée à toi. Seul le nom du quartier obtenu est utilisé, comme point de départ de l'itinéraire à l'écran.\n\n6. Tes droits\nConformément à la loi n° 22/11, tu as droit à l'information, à l'accès, à la rectification et à l'effacement de tes données personnelles, à exercer auprès du responsable indiqué au point 9, ou auprès de l'APD. Comme indiqué au point 4, cela a une limite pratique : sans identifiant associé aux suggestions, il est impossible de retrouver a posteriori un envoi précis.\n\n7. Sécurité\nL'accès administrateur (gestion des quartiers, itinéraires et traductions) est protégé par un mot de passe ; les mots de passe sont stockés sous forme de hachage SHA-256, jamais en clair.\n\n8. Mineurs\nL'application est d'usage général et ne s'adresse pas spécifiquement aux enfants ; elle ne collecte pas non plus de données permettant d'identifier l'âge de ses utilisateurs.\n\n9. Responsable et contact\nAlfredo Pinto Sabino de Figueiredo — Université de Luanda (travail de fin d'études)\nalfredofigueiredofd@gmail.com\n\n10. Modifications\nLes modifications importantes de cette politique seront reflétées dans cette section, avec la date de mise à jour révisée en haut.",
    "fonte": "assistente"
   },
   {
@@ -2320,7 +2320,7 @@
   {
    "chave": "sobre_privacidade_texto",
    "idioma": "es",
-   "valor": "Política de Privacidad\nVersión 1.1\nÚltima actualización: 24 de octubre de 2026\n\n1. Ámbito\nEsta política describe cómo Nzila Guide trata los datos en el marco de la Ley n.º 22/11 (Ley de Protección de Datos Personales de Angola), supervisada por la Agencia de Protección de Datos (APD). Se aplica a la aplicación móvil Nzila Guide, desarrollada como Trabajo de Fin de Carrera en la Universidad de Luanda.\n\n2. Qué datos se tratan\nPreferencias locales — el idioma seleccionado y el tamaño de letra. Se guardan solo en tu dispositivo; nunca salen de él.\nSugerencias de barrio/ruta y propuestas de corrección de traducción — texto que escribes voluntariamente. No pedimos nombre, contacto ni ningún identificador; lo que escribas en ese campo es todo lo que queda registrado.\nNo existe cuenta de usuario. No hay registro, inicio de sesión ni identificador de dispositivo asociado al uso normal de la aplicación.\n\n3. Dónde se guardan los datos\nNzila Guide funciona primero sin conexión: los barrios, comunas, municipios y rutas se guardan en una base de datos local (SQLite) en tu teléfono. La única conexión a internet prevista es para comprobar actualizaciones de las traducciones — esa petición no envía datos personales, solo comprueba si hay una versión más reciente disponible.\n\n4. Sugerencias que envías\nSe guardan para su revisión por el equipo del proyecto. Recomendación: no incluyas datos personales tuyos ni de terceros en el texto de la sugerencia — la aplicación no asocia la sugerencia a una identidad, por lo que tampoco puede localizarla y borrarla posteriormente a petición sin esa referencia. Evita incluir información que no quieras que quede registrada.\n\n5. Geolocalización\nLa aplicación tiene una función opcional, «Usar mi ubicación», que indica el barrio más cercano a ti para fijarlo como punto de partida de la ruta. Solo se usa cuando pulsas ese botón: antes de cualquier acceso, el sistema de tu teléfono pide tu autorización explícita, que puedes rechazar o retirar en cualquier momento en los ajustes del dispositivo — el resto de la aplicación funciona sin ella. Tu ubicación se lee en ese momento, se compara en tu dispositivo con las coordenadas de los barrios y se descarta: no se guarda, no se envía a ningún servidor y no se asocia a ti. Solo se usa el nombre del barrio resultante, como punto de partida de la ruta en pantalla.\n\n6. Tus derechos\nConforme a la Ley n.º 22/11, tienes derecho a información, acceso, rectificación y supresión de tus datos personales, que puedes ejercer ante el responsable indicado en el punto 9, o ante la APD. Como se indica en el punto 4, esto tiene una limitación práctica: sin un identificador asociado a las sugerencias, no es posible localizar retroactivamente un envío concreto.\n\n7. Seguridad\nEl acceso administrativo (gestión de barrios, rutas y traducciones) está protegido por contraseña; las contraseñas se guardan con hash SHA-256, nunca en texto plano.\n\n8. Menores\nLa aplicación es de uso general y no está dirigida específicamente a niños, ni recoge datos que permitan identificar la edad de quien la usa.\n\n9. Responsable y contacto\nAlfredo Pinto Sabino de Figueiredo — Universidad de Luanda (Trabajo de Fin de Carrera)\nalfredofigueiredofd@gmail.com\n\n10. Cambios\nLos cambios importantes de esta política se reflejarán en esta sección, con la fecha de actualización revisada en la parte superior.",
+   "valor": "Política de Privacidad\nVersión 1.2\nÚltima actualización: 4 de noviembre de 2026\n\n1. Ámbito\nEsta política describe cómo Nzila Guide trata los datos en el marco de la Ley n.º 22/11 (Ley de Protección de Datos Personales de Angola), supervisada por la Agencia de Protección de Datos (APD). Se aplica a la aplicación móvil Nzila Guide, desarrollada como Trabajo de Fin de Carrera en la Universidad de Luanda.\n\n2. Qué datos se tratan\nPreferencias locales — el idioma seleccionado y el tamaño de letra. Se guardan solo en tu dispositivo; nunca salen de él.\nSugerencias de barrio/ruta y propuestas de corrección de traducción — texto que escribes voluntariamente. No pedimos nombre, contacto ni ningún identificador; lo que escribas en ese campo es todo lo que queda registrado.\nNo existe cuenta de usuario. No hay registro, inicio de sesión ni identificador de dispositivo asociado al uso normal de la aplicación.\n\n3. Dónde se guardan los datos\nNzila Guide funciona primero sin conexión: los barrios, comunas, municipios y rutas se guardan en una base de datos local (SQLite) en tu teléfono. La única conexión a internet es para descargar actualizaciones — de las traducciones y de los datos de las rutas — desde un servidor de archivos públicos. Esa petición no envía datos personales: solo descarga los archivos más recientes. Como en cualquier conexión a internet, el servidor que aloja esos archivos puede registrar tu dirección IP.\n\n4. Sugerencias que envías\nSe guardan para su revisión por el equipo del proyecto. Recomendación: no incluyas datos personales tuyos ni de terceros en el texto de la sugerencia — la aplicación no asocia la sugerencia a una identidad, por lo que tampoco puede localizarla y borrarla posteriormente a petición sin esa referencia. Evita incluir información que no quieras que quede registrada.\n\n5. Geolocalización\nLa aplicación tiene una función opcional, «Usar mi ubicación», que indica el barrio más cercano a ti para fijarlo como punto de partida de la ruta. Solo se usa cuando pulsas ese botón: antes de cualquier acceso, el sistema de tu teléfono pide tu autorización explícita, que puedes rechazar o retirar en cualquier momento en los ajustes del dispositivo — el resto de la aplicación funciona sin ella. Tu ubicación se lee en ese momento, se compara en tu dispositivo con las coordenadas de los barrios y se descarta: no se guarda, no se envía a ningún servidor y no se asocia a ti. Solo se usa el nombre del barrio resultante, como punto de partida de la ruta en pantalla.\n\n6. Tus derechos\nConforme a la Ley n.º 22/11, tienes derecho a información, acceso, rectificación y supresión de tus datos personales, que puedes ejercer ante el responsable indicado en el punto 9, o ante la APD. Como se indica en el punto 4, esto tiene una limitación práctica: sin un identificador asociado a las sugerencias, no es posible localizar retroactivamente un envío concreto.\n\n7. Seguridad\nEl acceso administrativo (gestión de barrios, rutas y traducciones) está protegido por contraseña; las contraseñas se guardan con hash SHA-256, nunca en texto plano.\n\n8. Menores\nLa aplicación es de uso general y no está dirigida específicamente a niños, ni recoge datos que permitan identificar la edad de quien la usa.\n\n9. Responsable y contacto\nAlfredo Pinto Sabino de Figueiredo — Universidad de Luanda (Trabajo de Fin de Carrera)\nalfredofigueiredofd@gmail.com\n\n10. Cambios\nLos cambios importantes de esta política se reflejarán en esta sección, con la fecha de actualización revisada en la parte superior.",
    "fonte": "assistente"
   },
   {
@@ -2423,6 +2423,390 @@
    "chave": "bairro_linhas_passam",
    "idioma": "es",
    "valor": "Líneas que pasan por aquí",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_destinos_titulo",
+   "idioma": "pt",
+   "valor": "Táxis nesta paragem",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_destinos_titulo",
+   "idioma": "en",
+   "valor": "Taxis at this stop",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_destinos_titulo",
+   "idioma": "fr",
+   "valor": "Taxis à cet arrêt",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_destinos_titulo",
+   "idioma": "es",
+   "valor": "Taxis en esta parada",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_taxi_para",
+   "idioma": "pt",
+   "valor": "Táxi para {destino}",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_taxi_para",
+   "idioma": "en",
+   "valor": "Taxi to {destino}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_taxi_para",
+   "idioma": "fr",
+   "valor": "Taxi pour {destino}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_taxi_para",
+   "idioma": "es",
+   "valor": "Taxi a {destino}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_moto_para",
+   "idioma": "pt",
+   "valor": "Moto-táxi para {destino}",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_moto_para",
+   "idioma": "en",
+   "valor": "Motorbike taxi to {destino}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_moto_para",
+   "idioma": "fr",
+   "valor": "Moto-taxi pour {destino}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_moto_para",
+   "idioma": "es",
+   "valor": "Mototaxi a {destino}",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_sem_destinos",
+   "idioma": "pt",
+   "valor": "Ainda não há rotas registadas nesta paragem.",
+   "fonte": "original"
+  },
+  {
+   "chave": "bairro_sem_destinos",
+   "idioma": "en",
+   "valor": "No routes registered at this stop yet.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_sem_destinos",
+   "idioma": "fr",
+   "valor": "Aucune route enregistrée à cet arrêt.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "bairro_sem_destinos",
+   "idioma": "es",
+   "valor": "Aún no hay rutas registradas en esta parada.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_titulo",
+   "idioma": "pt",
+   "valor": "Nova versão disponível",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_titulo",
+   "idioma": "en",
+   "valor": "New version available",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_titulo",
+   "idioma": "fr",
+   "valor": "Nouvelle version disponible",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_titulo",
+   "idioma": "es",
+   "valor": "Nueva versión disponible",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_instalada",
+   "idioma": "pt",
+   "valor": "Versão instalada",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_instalada",
+   "idioma": "en",
+   "valor": "Installed version",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_instalada",
+   "idioma": "fr",
+   "valor": "Version installée",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_instalada",
+   "idioma": "es",
+   "valor": "Versión instalada",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_nova",
+   "idioma": "pt",
+   "valor": "Nova versão",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_nova",
+   "idioma": "en",
+   "valor": "New version",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_nova",
+   "idioma": "fr",
+   "valor": "Nouvelle version",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_nova",
+   "idioma": "es",
+   "valor": "Nueva versión",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_melhorias",
+   "idioma": "pt",
+   "valor": "Melhorias",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_melhorias",
+   "idioma": "en",
+   "valor": "Improvements",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_melhorias",
+   "idioma": "fr",
+   "valor": "Améliorations",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_melhorias",
+   "idioma": "es",
+   "valor": "Mejoras",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_atualizar_agora",
+   "idioma": "pt",
+   "valor": "Atualizar agora",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_atualizar_agora",
+   "idioma": "en",
+   "valor": "Update now",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_atualizar_agora",
+   "idioma": "fr",
+   "valor": "Mettre à jour maintenant",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_atualizar_agora",
+   "idioma": "es",
+   "valor": "Actualizar ahora",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_agora_nao",
+   "idioma": "pt",
+   "valor": "Agora não",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_agora_nao",
+   "idioma": "en",
+   "valor": "Not now",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_agora_nao",
+   "idioma": "fr",
+   "valor": "Pas maintenant",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_agora_nao",
+   "idioma": "es",
+   "valor": "Ahora no",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_obrigatoria",
+   "idioma": "pt",
+   "valor": "Esta actualização é necessária para continuar a usar a app.",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_obrigatoria",
+   "idioma": "en",
+   "valor": "This update is required to keep using the app.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_obrigatoria",
+   "idioma": "fr",
+   "valor": "Cette mise à jour est nécessaire pour continuer à utiliser l'application.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_obrigatoria",
+   "idioma": "es",
+   "valor": "Esta actualización es necesaria para seguir usando la app.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_transferida",
+   "idioma": "pt",
+   "valor": "Actualização transferida.",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_transferida",
+   "idioma": "en",
+   "valor": "Update downloaded.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_transferida",
+   "idioma": "fr",
+   "valor": "Mise à jour téléchargée.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_transferida",
+   "idioma": "es",
+   "valor": "Actualización descargada.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_reiniciar",
+   "idioma": "pt",
+   "valor": "Reiniciar",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_reiniciar",
+   "idioma": "en",
+   "valor": "Restart",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_reiniciar",
+   "idioma": "fr",
+   "valor": "Redémarrer",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_reiniciar",
+   "idioma": "es",
+   "valor": "Reiniciar",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_falhou",
+   "idioma": "pt",
+   "valor": "Não foi possível actualizar agora.",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_falhou",
+   "idioma": "en",
+   "valor": "Couldn't update right now.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_falhou",
+   "idioma": "fr",
+   "valor": "Impossible de mettre à jour pour le moment.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_falhou",
+   "idioma": "es",
+   "valor": "No se pudo actualizar ahora.",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_abrir_play",
+   "idioma": "pt",
+   "valor": "Abrir Google Play",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_abrir_play",
+   "idioma": "en",
+   "valor": "Open Google Play",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_abrir_play",
+   "idioma": "fr",
+   "valor": "Ouvrir Google Play",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_abrir_play",
+   "idioma": "es",
+   "valor": "Abrir Google Play",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_verificar_app",
+   "idioma": "pt",
+   "valor": "Verificar nova versão da app",
+   "fonte": "original"
+  },
+  {
+   "chave": "upd_verificar_app",
+   "idioma": "en",
+   "valor": "Check for a new app version",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_verificar_app",
+   "idioma": "fr",
+   "valor": "Vérifier la nouvelle version de l'application",
+   "fonte": "assistente"
+  },
+  {
+   "chave": "upd_verificar_app",
+   "idioma": "es",
+   "valor": "Buscar nueva versión de la app",
    "fonte": "assistente"
   }
  ]
