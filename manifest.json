@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "versao": "20261122-1530",
-  "publicado_em": "2026-11-22T15:30:51Z",
+  "versao": "20261122-1642",
+  "publicado_em": "2026-11-22T16:42:39Z",
   "app": {
     "min_build_compativel": 0,
     "min_build_obrigatoria": 0,
@@ -12,10 +12,10 @@
       "id": "dados",
       "tipo": "dados",
       "caminho": "dados.json",
-      "sha256": "e36c33a57aff3787fe8b39c1ba59fd5f0916795cd56aeefe61899435866caae7",
-      "tamanho": 63204,
+      "sha256": "8ed01707aa1876ce1630c3716643488147a3fe49ee0c8bf9e0a990df7975c0de",
+      "tamanho": 62798,
       "obrigatorio": true,
-      "versao": "20261122-1630"
+      "versao": "20261122-1742"
     },
     {
       "id": "traducoes",
