@@ -1,0 +1,25 @@
+# Copiar para o repositório nzila-guide-dados (.github/workflows/manifest.yml)
+# e copiar também tools/gerar_manifest.py para tools/ nesse repositório.
+# Mantém o manifest.json sempre coerente com dados.json / traducoes.json.
+name: Actualizar manifest.json
+on:
+  push:
+    branches: [main]
+    paths: ['dados.json', 'traducoes.json']
+permissions:
+  contents: write
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python tools/gerar_manifest.py --pasta .
+      - name: Commit se mudou
+        run: |
+          if [ -n "$(git status --porcelain manifest.json)" ]; then
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git add manifest.json
+            git commit -m "manifest.json actualizado"
+            git push
+          fi
