@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "versao": "20261122-0240",
-  "publicado_em": "2026-11-22T02:40:34Z",
+  "versao": "20261122-0558",
+  "publicado_em": "2026-11-22T05:58:21Z",
   "app": {
     "min_build_compativel": 0,
     "min_build_obrigatoria": 0,
@@ -21,10 +21,10 @@
       "id": "traducoes",
       "tipo": "traducoes",
       "caminho": "traducoes.json",
-      "sha256": "9203f525ac6c38b02173c0fc445eef61378d3485d18ba8c4ade1613125727bf6",
-      "tamanho": 83612,
+      "sha256": "6a50acfadfe8b9fc17b6401aabd78654e1cc3d61d5b34df68304794557a83c30",
+      "tamanho": 86932,
       "obrigatorio": false,
-      "versao": "7"
+      "versao": "8"
     }
   ]
 }
