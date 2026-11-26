@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "versao": "20261122-1642",
-  "publicado_em": "2026-11-26T17:09:08Z",
+  "publicado_em": "2026-11-26T17:22:54Z",
   "app": {
     "min_build_compativel": 0,
     "min_build_obrigatoria": 0,
@@ -27,7 +27,7 @@
       "versao": "8"
     }
   ],
-  "versao_conteudos": "2026-11-26.1",
+  "versao_conteudos": "2026-11-26.2",
   "app_versao_minima_compativel": "1.0.0",
   "app_versao_minima_obrigatoria": null,
   "app_novidades": ""
