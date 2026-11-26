@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "versao": "20261122-1642",
-  "publicado_em": "2026-11-22T16:42:39Z",
+  "publicado_em": "2026-11-26T17:09:08Z",
   "app": {
     "min_build_compativel": 0,
     "min_build_obrigatoria": 0,
@@ -10,8 +10,8 @@
   "ficheiros": [
     {
       "id": "dados",
-      "tipo": "dados",
       "caminho": "dados.json",
+      "url": "https://alfr3d096.github.io/nzila-guide-dados/dados.json",
       "sha256": "8ed01707aa1876ce1630c3716643488147a3fe49ee0c8bf9e0a990df7975c0de",
       "tamanho": 62798,
       "obrigatorio": true,
@@ -19,12 +19,16 @@
     },
     {
       "id": "traducoes",
-      "tipo": "traducoes",
       "caminho": "traducoes.json",
-      "sha256": "6a50acfadfe8b9fc17b6401aabd78654e1cc3d61d5b34df68304794557a83c30",
-      "tamanho": 86932,
+      "url": "https://alfr3d096.github.io/nzila-guide-dados/traducoes.json",
+      "sha256": "015ec4b73998b8312fa5c7588f6030e805a7cc9ad4552a7353150e2574bdf7c3",
+      "tamanho": 89913,
       "obrigatorio": false,
       "versao": "8"
     }
-  ]
+  ],
+  "versao_conteudos": "2026-11-26.1",
+  "app_versao_minima_compativel": "1.0.0",
+  "app_versao_minima_obrigatoria": null,
+  "app_novidades": ""
 }
